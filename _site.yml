@@ -1,0 +1,19 @@
+name: "The Circassian Isoglosses Database"
+output_dir: "docs"
+navbar:
+  title: ""
+  left:
+    - text: "home"
+      href: index.html
+    - text: "isoglosses"
+      href: isoglosses.html
+    - text: "about"
+      href: about.html
+output:
+  html_document:
+    theme: spacelab
+    df_print: paged
+    include:
+      after_body: footer.html
+    lib_dir: site_libs
+    self_contained: no

@@ -1,0 +1,32 @@
+```{r, include=FALSE}
+library(DT)
+library(tidyverse)
+knitr::opts_chunk$set(echo=FALSE, message=FALSE)
+```
+
+
+### {.tabset .tabset-fade .tabset-pills}
+#### Partial data
+```{r}
+# change titles to links
+read_tsv("database.csv") %>% 
+  mutate(title = paste0("<a href = 'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/",
+                        feature_id,
+                        ".html'>",
+                        title,
+                        "</a>")) ->
+  db
+
+db %>% 
+  mutate(value = paste(value, source)) %>% 
+  select(title, contributor, idiom, value) %>%
+  spread(idiom, value) %>% 
+  mutate_all(function(x){ifelse(is.na(x), "", x)}) %>% 
+  datatable(escape = FALSE)
+```
+
+#### Whole dataset
+```{r}
+DT::datatable(db[,-6],escape = FALSE) # remove description column
+```
+

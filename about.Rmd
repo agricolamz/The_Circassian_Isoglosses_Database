@@ -1,0 +1,8 @@
+### About the database and the website
+
+We created the CID (Circassian Isoglosses Database) and
+website to study...
+
+### The Data
+In order to create the IPSL database, we used...
+
