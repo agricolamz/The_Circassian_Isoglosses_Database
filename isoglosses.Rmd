@@ -36,7 +36,7 @@ DT::datatable(db[,-6],escape = FALSE) # remove description column
 
 sapply(unique(db$feature_id), function(i){
   indexes <- which(db$feature_id == i)
-  title <- paste0("## ", i, ". ", db$title[i])
+  title <- paste0("## ", i, ". ", unique(db$title)[i])
   description <- c("### Description", "", 
                    db$description[i], "",
                    db$comment[!is.na(db$comment[indexes])], "")
@@ -47,7 +47,7 @@ sapply(unique(db$feature_id), function(i){
               "")
   text <- c(title, description, values)
   writeLines(text, paste0(i, ".Rmd"))
-  rmarkdown::render(paste0(i, ".Rmd"))
+  #rmarkdown::render(paste0(i, ".Rmd"))
   }
 )
 
