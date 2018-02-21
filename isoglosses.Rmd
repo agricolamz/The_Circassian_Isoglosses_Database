@@ -34,20 +34,18 @@ DT::datatable(db[,-6],escape = FALSE) # remove description column
 ```{r, include=FALSE}
 # isoglosses creation
 
-sapply(unique(db$feature_id), function(i){
-  indexes <- which(db$feature_id == i)
-  title <- paste0("## ", i, ". ", unique(db$title)[i])
+sapply(seq_along(db$feature_id), function(i){
+  title <- paste0("## ", db$feature_id[i], ". ", db$title[i])
   description <- c("### Description", "", 
                    db$description[i], "",
-                   db$comment[!is.na(db$comment[indexes])], "")
+                   db$comment[!is.na(db$comment[i])], "")
   values <- c("### Values",
               "There are the following value for each idiom:",
               "",
-              paste("*", db$idiom[indexes], db$value[indexes], db$source[indexes]), 
+              paste("*", db$idiom[i], db$value[i], db$source[i]), 
               "")
   text <- c(title, description, values)
-  writeLines(text, paste0(i, ".Rmd"))
-  #rmarkdown::render(paste0(i, ".Rmd"))
+  writeLines(text, paste0(db$feature_id[i], ".Rmd"))
   }
 )
 
