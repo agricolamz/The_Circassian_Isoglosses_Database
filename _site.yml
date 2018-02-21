@@ -1,14 +1,14 @@
-name: "The Circassian Isoglosses Database"
-output_dir: "docs"
+name: The Circassian Isoglosses Database
+output_dir: docs
 navbar:
-  title: ""
+  title: ''
   left:
-    - text: "home"
-      href: index.html
-    - text: "isoglosses"
-      href: isoglosses.html
-    - text: "about"
-      href: about.html
+  - text: home
+    href: index.html
+  - text: isoglosses
+    href: isoglosses.html
+  - text: about
+    href: about.html
 output:
   html_document:
     theme: spacelab
@@ -17,3 +17,4 @@ output:
       after_body: footer.html
     lib_dir: site_libs
     self_contained: no
+
