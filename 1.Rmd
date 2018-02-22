@@ -11,4 +11,5 @@ There are the following value for each idiom:
 * Abzakh бывает [Кумахова 1972: 68]
 * Kuban бывает [Кумахова 1972: 68]
 * Mozdok бывает [Кумахова 1972: 68]
+* Shapsug fake value [fake author]
 

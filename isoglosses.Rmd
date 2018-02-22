@@ -18,8 +18,11 @@ read_tsv("https://raw.githubusercontent.com/agricolamz/The_Circassian_Isoglosses
   db
 
 db %>% 
-  mutate(value = paste(value, source)) %>% 
-  select(title, contributor, idiom, value) %>%
+  mutate(value = paste(value, "<br>", source)) %>% 
+  group_by(feature_id, idiom) %>% 
+  mutate(value = str_c(value, collapse = "<br>")) %>% 
+  select(title, contributor, idiom, value) %>% 
+  distinct() %>% 
   spread(idiom, value) %>% 
   mutate_all(function(x){ifelse(is.na(x), "", x)}) %>% 
   datatable(escape = FALSE)
