@@ -7,5 +7,7 @@ NA
 ### Values
 There are the following value for each idiom:
 
+* Kabardian да [Керашева 1957: 271]
+* Shapsug да [Керашева 1957: 271]
 * SWC нет [Керашева 1957: 271]
 

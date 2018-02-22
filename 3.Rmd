@@ -7,5 +7,7 @@
 ### Values
 There are the following value for each idiom:
 
+* Abzakh нет [Керашева 1957: 270]
+* Bzhedug да [Керашева 1957: 270]
 * SWC да [Керашева 1957: 270]
 
