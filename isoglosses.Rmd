@@ -9,9 +9,9 @@ knitr::opts_chunk$set(echo=FALSE, message=FALSE)
 #### Partial data
 ```{r}
 # change titles to links
-read_tsv("https://raw.githubusercontent.com/agricolamz/The_Circassian_Isoglosses_Database/master/database.csv") %>% 
+read_tsv("database.csv") %>% 
   mutate(title = paste0("<a href = 'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/",
-                        feature_id,
+                        id,
                         ".html'>",
                         title,
                         "</a>")) ->
@@ -19,27 +19,31 @@ read_tsv("https://raw.githubusercontent.com/agricolamz/The_Circassian_Isoglosses
 
 db %>% 
   mutate(value = paste(value, "<br>", source)) %>% 
-  group_by(feature_id, idiom) %>% 
+  group_by(id, idiom) %>% 
   mutate(value = str_c(value, collapse = "<br>")) %>% 
   select(title, contributor, idiom, value) %>% 
   distinct() %>% 
   spread(idiom, value) %>% 
   mutate_all(function(x){ifelse(is.na(x), "", x)}) %>% 
-  datatable(escape = FALSE)
+  datatable(escape = FALSE, rownames = FALSE,  
+            filter = list(position = 'top', clear = TRUE),
+            options = list(pageLength = 20, dom = 'tip', autoWidth = TRUE))
 ```
 
 #### Whole dataset
 ```{r}
-DT::datatable(db[,-6],escape = FALSE) # remove description column
+DT::datatable(db[,-6],escape = FALSE, rownames = FALSE,
+              filter = list(position = 'top', clear = TRUE),
+              options = list(pageLength = 20, dom = 'tip', autoWidth = TRUE)) # remove description column
 ```
 
 
 ```{r, include=FALSE}
 # isoglosses creation
 
-sapply(seq_along(db$feature_id), function(i){
-  indexes <- which(db$feature_id %in% db$feature_id[i])
-  title <- paste0("## ", db$feature_id[i], ". ", db$title[i])
+sapply(seq_along(db$id), function(i){
+  indexes <- which(db$id %in% db$id[i])
+  title <- paste0("## ", db$id[i], ". ", db$title[i])
   description <- c("### Description", "", 
                    db$description[i], "",
                    db$comment[!is.na(db$comment[i])], "")
@@ -49,7 +53,7 @@ sapply(seq_along(db$feature_id), function(i){
               paste("*", db$idiom[indexes], db$value[indexes], db$source[indexes]), 
               "")
   text <- c(title, description, values)
-  writeLines(text, paste0(db$feature_id[i], ".Rmd"))
+  writeLines(text, paste0(db$id[i], ".Rmd"))
   }
 )
 
