@@ -1,0 +1,12 @@
+## 153. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/153.html'>фактивный преверб</a>
+### Description
+
+Данный аппликатив используется при релятивизации факта (см. обсуждение статуса элемента зэрэ-/зэры- в [Герасимов, Ландер: 2008]).
+
+
+### Values
+There are the following value for each idiom:
+
+* SWC re- [Тхаркахо 1993: 78]
+* Temirgoi rə- [Тхаркахо 1993: 78]
+

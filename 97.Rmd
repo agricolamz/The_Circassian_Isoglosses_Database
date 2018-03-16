@@ -1,0 +1,19 @@
+## 97. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/97.html'>показатель абсолютива</a>
+### Description
+
+Показателем абсолютива является -р. В бжедугском он содержит в себе гласную э, а согласная р факультативна: -э(р).
+
+
+### Values
+There are the following value for each idiom:
+
+* Bzhedug -e(r) [Ситимова 2004: 62-65, 68-69]
+* Bzhedug -er [Зекох 1969: 78-79, 89-91]
+* Shapsug -er [Зекох 1969: 78-79, 89-91]
+* Temirgoi -r [Зекох 1969: 78-79, 89-91]
+* Abzakh -r [Зекох 1969: 78-79, 89-91]
+* NA -e(r) [Тхаркахо 1993: 89]
+* Temirgoi -r [Тхаркахо 1993: 89]
+* SWC -r [Рогава, Керашева 1966: 62]
+* Bzhedug -r / -er [Рогава, Керашева 1966: 62]
+

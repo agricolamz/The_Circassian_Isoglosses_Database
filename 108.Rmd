@@ -1,0 +1,14 @@
+## 108. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/108.html'>послелог "сверху"</a>
+### Description
+
+NA
+
+
+### Values
+There are the following value for each idiom:
+
+* SWC кIыIу [Ситимова 2004: 111-112]
+* Shapsug кIыIу [Ситимова 2004: 111-112]
+* Temirgoi кIыIу [Ситимова 2004: 111-112]
+* Bzhedug чыIу [Ситимова 2004: 111-112]
+

@@ -1,0 +1,11 @@
+## 5. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/5.html'>all N people</a>
+### Description
+
+In Bzhedug there are special prefix aj-/əj- which can be attached to the numerals 'two', 'three', 'four' and 'five', bearing the meaning 'all N people
+
+
+### Values
+There are the following value for each idiom:
+
+* Bzhedug aj-/əj- (2, 3, 4, 5) [Ситимова 2004: 74]
+

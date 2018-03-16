@@ -1,0 +1,11 @@
+## 23. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/23.html'>wədre 'тот'</a>
+### Description
+
+Помимо самого местоимения wə есть еще wədre. Пока не понимаю, есть ли и от других демонстративов и в других диалектах
+
+
+### Values
+There are the following value for each idiom:
+
+* Shapsug да [Керашева 1957: 251]
+

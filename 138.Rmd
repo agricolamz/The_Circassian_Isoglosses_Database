@@ -1,0 +1,15 @@
+## 138. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/138.html'>скалярный модификатор "очень"</a>
+### Description
+
+Для слов со значением цIыкIу ‘маленький’ и тIэкIу ‘немного’ используется особый показатель превосходной степени.
+
+
+### Values
+There are the following value for each idiom:
+
+* Kabardian -njəṭe [Керашева 1957: 248]
+* Shapsug -н'ау [Керашева 1957: 248]
+* SWC ded, -ẑəj [Керашева 1957: 248]
+* Bzhedug -нау [Керашева 1957: 248]
+* Bzhedug -nabz [Ситимова 2004: 71]
+

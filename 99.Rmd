@@ -1,0 +1,20 @@
+## 99. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/99.html'>показатель будущего времени</a>
+### Description
+
+Показатель будущего времени может выглядеть как -š't или -t в разных диалектах.
+
+
+### Values
+There are the following value for each idiom:
+
+* SWC -š't [Кумахова 1972: 79]
+* Abzakh -š't, -t [Кумахова 1972: 79]
+* Bzhedug -š't, -t [Кумахова 1972: 79]
+* Abzakh -š't, -t [Ситимова 2004: 93]
+* Bzhedug -š't, -t [Ситимова 2004: 93]
+* Shapsug -št [Ситимова 2004: 93]
+* Temirgoi -š't [Ситимова 2004: 93]
+* NA -š't, -t [Ситимова 2004: 93]
+* NA -š't, -t [Ситимова 2004: 93]
+* SWC -š't [Ситимова 2004: 93]
+

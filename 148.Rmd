@@ -1,0 +1,12 @@
+## 148. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/148.html'>суперлатив</a>
+### Description
+
+Суффикс, образующий превосходную степень прилагательных выглядит в бжедугском как -къэпс, а в других диалектах (пример только из темиргоевского) как -къыпс и -къыц. К нему может присоединяться синонимичный -бз, однако для темиргоевского приведена форма на -къыцыбз, но не -къыпсыбз.
+
+
+### Values
+There are the following value for each idiom:
+
+* Shapsug -qeps(əbz) NA
+* Temirgoi -qəps, -qəc(əbz) NA
+

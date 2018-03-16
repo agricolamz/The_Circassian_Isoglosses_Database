@@ -10,7 +10,8 @@ knitr::opts_chunk$set(echo=FALSE, message=FALSE)
 ```{r}
 # change titles to links
 read_tsv("https://raw.githubusercontent.com/agricolamz/The_Circassian_Isoglosses_Database/master/database.csv") %>% 
-  mutate(title = paste0("<a href = 'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/",
+  mutate(id = as.integer(factor(title)),
+    title = paste0("<a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/",
                         id,
                         ".html'>",
                         title,

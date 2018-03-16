@@ -1,0 +1,13 @@
+## 76. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/76.html'>наличие показателя -ŝ</a>
+### Description
+
+Ситуация инфинитного глагола предшествует ситуации финитного, может иметь значение причинности [Керашева 1957: 270].
+
+
+### Values
+There are the following value for each idiom:
+
+* Abzakh нет [Керашева 1957: 270]
+* Bzhedug да [Керашева 1957: 270]
+* SWC да [Керашева 1957: 270]
+

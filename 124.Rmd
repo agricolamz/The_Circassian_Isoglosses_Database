@@ -1,0 +1,12 @@
+## 124. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/124.html'>причина</a>
+### Description
+
+Глагольная словоформа, обозначающая причину, оформляется показатели -tjə. Встречается также и -tjə-rjə
+
+
+### Values
+There are the following value for each idiom:
+
+* Bzhedug -tjə [Ситимова 2004: 92-93]
+* Temirgoi -tjə, -tjə-rjə [Ситимова 2004: 92-93]
+

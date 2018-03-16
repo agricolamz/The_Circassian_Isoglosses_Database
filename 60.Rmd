@@ -1,0 +1,16 @@
+## 60. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/60.html'>"инфинитный аорист"</a>
+### Description
+
+При перечислении последовательно произошедших в прошлом событий, глагол, обозначающий первое из них, оформляется разными суффиксами.
+
+
+### Values
+There are the following value for each idiom:
+
+* Bzhedug -jə, -jəŝ, -ejəŝ [Ситимова 2004: 85-86]
+* Shapsug -jə [Ситимова 2004: 85-86]
+* Abzakh -jə, -zə, -zjə [Ситимова 2004: 85-86]
+* Temirgoi -ŝə, -ŝjə, иногда -ŝərjə [Ситимова 2004: 85-86]
+* Abzakh -zə [Тхаркахо 1993: 84]
+* Temirgoi -ŝə, -ŝjə [Тхаркахо 1993: 84]
+

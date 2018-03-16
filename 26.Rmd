@@ -1,0 +1,12 @@
+## 26. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/26.html'>абсолютивный актант 1 или 2 лица, выраженный именем</a>
+### Description
+
+Абсолютивный актант 1 или 2 лица, выраженный именем, может оформляться не абсолютивом.
+
+
+### Values
+There are the following value for each idiom:
+
+* Shapsug INS [Керашева 1957: 245]
+* Temirgoi ABS/ERG [Керашева 1957: 245]
+

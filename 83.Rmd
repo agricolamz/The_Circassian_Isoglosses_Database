@@ -1,0 +1,20 @@
+## 83. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/83.html'>неотторжимая принадлежность</a>
+### Description
+
+NA
+
+
+### Values
+There are the following value for each idiom:
+
+* Besleney да (smaller class) [Керашева 1957: 253]
+* Shapsug да [Керашева 1957: 253]
+* Kabardian нет [Кумахов 2013: 73-74]
+* Kabardian нет [Кумахова 1972: 71]
+* Abzakh optional [Кумахова 1972: 71]
+* Kuban нет [Кумахова 1972: 71]
+* SWC да [Рогава, Керашева 1966: 68]
+* NA NA NA
+* NA NA NA
+* Bzhedug да NA
+

@@ -1,0 +1,14 @@
+## 45. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/45.html'>выпадение -r- перед отрицанием в настоящем времени</a>
+### Description
+
+В бжедугском и темиргоевском иногда выпадает согласный /r/ суффикса динамичности перед отрицанием -ep
+
+
+### Values
+There are the following value for each idiom:
+
+* Abzakh нет [Ситимова 2004: 89]
+* Bzhedug иногда [Ситимова 2004: 89]
+* Shapsug редко [Ситимова 2004: 89]
+* Temirgoi иногда [Ситимова 2004: 89]
+

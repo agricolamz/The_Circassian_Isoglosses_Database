@@ -1,0 +1,13 @@
+## 105. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/105.html'>послелог "исходя из"</a>
+### Description
+
+Разница между вариантами послелога не только в окончании инструменталиса -кIэ и -джэ, но и в наличии преверба хэ-
+
+
+### Values
+There are the following value for each idiom:
+
+* Bzhedug къыкIыджэ, къыхэкIыджэ [Ситимова 2004: 114-115]
+* SWC къыхэкIыкIэ [Ситимова 2004: 114-115]
+* Temirgoi къыхэкIыкIэ [Ситимова 2004: 114-115]
+

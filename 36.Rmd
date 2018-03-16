@@ -1,0 +1,13 @@
+## 36. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/36.html'>вместо вопросительного -ra в бжедугском иногда появляется -aa</a>
+### Description
+
+Сочетание -re- DYN и -a Q
+
+
+### Values
+There are the following value for each idiom:
+
+* Abzakh -ra [Ситимова 2004: 97-98]
+* Bzhedug -aa [Ситимова 2004: 97-98]
+* Temirgoi -ra [Ситимова 2004: 97-98]
+

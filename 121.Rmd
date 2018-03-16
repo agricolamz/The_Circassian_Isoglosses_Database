@@ -1,0 +1,12 @@
+## 121. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/121.html'>преверб "через"</a>
+### Description
+
+gʷ- в шапсугском иногда заменяет ḳawc̣ə-
+
+
+### Values
+There are the following value for each idiom:
+
+* Shapsug gʷ-, ḳawc̣ə- [Керашева 1957: 257]
+* SWC ḳawc̣ə- [Керашева 1957: 257]
+

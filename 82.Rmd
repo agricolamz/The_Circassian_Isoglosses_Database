@@ -1,0 +1,12 @@
+## 82. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/82.html'>наречие "теперь"</a>
+### Description
+
+NA
+
+
+### Values
+There are the following value for each idiom:
+
+* Bzhedug ыдж [Ситимова 2004: 109]
+* SWC джы [Ситимова 2004: 109]
+

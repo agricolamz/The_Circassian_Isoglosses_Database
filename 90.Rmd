@@ -1,0 +1,12 @@
+## 90. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/90.html'>обстоятельство условия</a>
+### Description
+
+Обстоятельство условия, выраженное глагольной словоформой в шапсугском оформляется с помощью релятивного префикса z- и показателя обликвуса -m.
+
+
+### Values
+There are the following value for each idiom:
+
+* Shapsug z- — -m [Керашева 1957: 270]
+* SWC z- — -č̣’ (реже z- — -m) [Керашева 1957: 270]
+

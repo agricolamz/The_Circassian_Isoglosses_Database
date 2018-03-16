@@ -1,15 +1,11 @@
-## 1. <a href = 'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/1.html'>-me как показатель эргатива сингуляриса</a>
+## 1. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/1.html'>2pl pronoun + 2sg index</a>
 ### Description
 
-Эргатив маркируется суффиксом -м в единственном числе, а во множественном плюралис и эргатив кумулятивно выражаются в -мэ (хотя в Темиргоевском может быть и показатель плюралиса: -хэ-мэ, или -хэ-м). В абадзехском, кубанском и шапсугском -мэ иногда бывает и при сингулярисе.
+NA
 
 
 ### Values
 There are the following value for each idiom:
 
-* Shapsug редко [Керашева 1957: 243]
-* Abzakh бывает [Кумахова 1972: 68]
-* Kuban бывает [Кумахова 1972: 68]
-* Mozdok бывает [Кумахова 1972: 68]
-* Shapsug fake value [fake author]
+* Shapsug да [Керашева 1957: 259-260]
 

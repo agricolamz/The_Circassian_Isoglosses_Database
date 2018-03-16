@@ -1,0 +1,12 @@
+## 137. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/137.html'>сентенциальный актант глагола ‘хотеть’</a>
+### Description
+
+Форма на -n MOD в позиции аргумента при матричном глаголе 'хотеть' оформляется инструменталисом или адвербиалисом.
+
+
+### Values
+There are the following value for each idiom:
+
+* Shapsug INS [Керашева 1957: 244]
+* Temirgoi ADV [Керашева 1957: 244]
+

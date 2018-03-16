@@ -1,0 +1,12 @@
+## 131. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/131.html'>релятивизация места без преверба</a>
+### Description
+
+В шапсугском релятивизация места не бывает без пространственного преверба.
+
+
+### Values
+There are the following value for each idiom:
+
+* Shapsug нет NA
+* SWC да NA
+

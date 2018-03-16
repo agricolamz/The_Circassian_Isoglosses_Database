@@ -1,0 +1,12 @@
+## 16. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/16.html'>polar questions: FOCUS-a [relative clause]</a>
+### Description
+
+NA
+
+
+### Values
+There are the following value for each idiom:
+
+* Shapsug optional [Керашева 1957: 275-276]
+* SWC obligatory [Керашева 1957: 275-276]
+

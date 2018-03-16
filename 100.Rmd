@@ -1,0 +1,15 @@
+## 100. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/100.html'>показатель инструменталиса</a>
+### Description
+
+Показатель инструменталиса выглядит по-разному в разных диалектах. Чаще всего это объясняется фонетическим расхождением диалектов.
+
+
+### Values
+There are the following value for each idiom:
+
+* Shapsug -g’e (редко -ǯe) [Керашева 1957: 244-245]
+* Abzakh -ʔʲe [Ситимова 2004: 75-76]
+* Bzhedug -ǯe [Ситимова 2004: 75-76]
+* SWC -č̣’e [Ситимова 2004: 75-76]
+* Temirgoi -č̣’e [Тхаркахо 1993: 90]
+

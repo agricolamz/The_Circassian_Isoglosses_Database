@@ -1,0 +1,12 @@
+## 13. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/13.html'>/e/~/ə/</a>
+### Description
+
+В [Ситимова 2004: 101-102] даны пары словоформ, отличающиеся гласными в начальных префиксах (ze-, pə-, ṗe-/ṗə-, je-, š'ə-, ʔʷe-, ŝʷe-): в бжедугских формах префиксы содержат гласную ə, а в темиргоевских — гласную e. Но непонятно, из-за чего возникает эта разница.
+
+
+### Values
+There are the following value for each idiom:
+
+* Bzhedug NA [Ситимова 2004: 101-102]
+* Temirgoi NA [Ситимова 2004: 101-102]
+

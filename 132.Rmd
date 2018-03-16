@@ -1,0 +1,12 @@
+## 132. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/132.html'>релятивизация места: эссив</a>
+### Description
+
+Релятивном префикс zə-, выполняющий релятивизацию места, могут вводить разные пространственные превербы. Эссивная релятивизация ("там, где") в шапсугском выражается префиксами z-də-š'-.
+
+
+### Values
+There are the following value for each idiom:
+
+* Shapsug z-də-š'- [Керашева 1957: 269]
+* SWC zə-š'- [Керашева 1957: 269]
+

@@ -1,0 +1,12 @@
+## 28. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/28.html'>адвербиалис единственного</a>
+### Description
+
+В [Зекох 1969: 87] приводятся бжедугские формы указательного местоимения: предикативная арары и адвербиальная арарэу. Однако, не ясно, существуют ли подобные формы других падежей и с другими местоименными корнями.
+
+
+### Values
+There are the following value for each idiom:
+
+* Bzhedug да [Зекох 1969: 87]
+* Temirgoi нет [Зекох 1969: 87]
+

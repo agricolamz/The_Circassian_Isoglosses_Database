@@ -1,0 +1,11 @@
+## 39. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/39.html'>вопросительно-утвердительные предложения с суффиксом -ba</a>
+### Description
+
+В бжедугском другая интонация. Кроме того, могут быть образованы и от причастия, только не сказано, во всех ли диалектах или только в бжедугском
+
+
+### Values
+There are the following value for each idiom:
+
+* Bzhedug NA [Ситимова 2004: 98]
+

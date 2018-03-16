@@ -1,13 +1,13 @@
-## 4. <a href = 'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/4.html'>-zə</a>
+## 4. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/4.html'>abs and erg marking (in sg?)</a>
 ### Description
 
-Показатель -zə есть только в абадзехском.
+NA
 
 
 ### Values
 There are the following value for each idiom:
 
-* Abzakh да [Керашева 1957: 270]
-* Shapsug нет [Керашева 1957: 270]
-* SWC нет [Керашева 1957: 270]
+* Bzhedug нет [Ситимова 2004: 80]
+* Temirgoi да [Тхаркахо 1993: 94]
+* Bzhedug нет [Тхаркахо 1993: 94]
 

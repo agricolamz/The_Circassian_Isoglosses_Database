@@ -1,0 +1,13 @@
+## 55. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/55.html'>значение "наперегонки"</a>
+### Description
+
+Значение "наперегонки" может выражаться морфологически в префиксальной зоне сказуемого
+
+
+### Values
+There are the following value for each idiom:
+
+* Kabardian ze-de- [rec-com-] [Керашева 1957: 264]
+* Shapsug ze-fe- [rec-ben-] [Керашева 1957: 264]
+* SWC преверб п- [Керашева 1957: 264]
+

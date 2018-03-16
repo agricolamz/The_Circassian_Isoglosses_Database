@@ -1,0 +1,17 @@
+## 15. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/15.html'>medial (distant, visible)</a>
+### Description
+
+Основа местоимения
+
+
+### Values
+There are the following value for each idiom:
+
+* Kabardian mo- [Керашева 1957: 250]
+* Shapsug wə- [Керашева 1957: 250]
+* SWC mo- [Керашева 1957: 250]
+* Bzhedug ɣʷo- [Ситимова 2004: 78-79]
+* Abzakh mo- [Тхаркахо 1993: 93]
+* Temirgoi mo- [Тхаркахо 1993: 93]
+* Bzhedug wə- [Тхаркахо 1993: 93]
+

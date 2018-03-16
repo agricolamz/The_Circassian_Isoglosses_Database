@@ -1,0 +1,12 @@
+## 116. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/116.html'>преверб инструмента</a>
+### Description
+
+Данный аппликатив вводит аргумент роли инструмента.
+
+
+### Values
+There are the following value for each idiom:
+
+* SWC rə- [Тхаркахо 1993: 78]
+* Temirgoi rə- [Тхаркахо 1993: 78]
+

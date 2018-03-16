@@ -1,0 +1,12 @@
+## 118. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/118.html'>преверб "преодолевая препятствие"</a>
+### Description
+
+В бжедугском и темиргоевском для этого значения используются разные превербы.
+
+
+### Values
+There are the following value for each idiom:
+
+* Bzhedug ŝhapʰərə- [Ситимова 2004: 103]
+* Temirgoi ŝhede- [Ситимова 2004: 103]
+
