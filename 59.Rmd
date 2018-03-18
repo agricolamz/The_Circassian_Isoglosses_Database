@@ -1,11 +1,10 @@
 ## 59. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/59.html'>инструменталис множественного</a>
 ### Description
 
-NA
 
 
 ### Values
 There are the following value for each idiom:
 
-* Bzhedug Присоединяется к основе на -š’ [Ситимова 2004: 79]
+* Bzhedug  Присоединяется к основе на -š’ [Ситимова 2004: 79] 
 

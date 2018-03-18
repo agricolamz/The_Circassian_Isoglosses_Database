@@ -1,12 +1,11 @@
 ## 64. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/64.html'>квантификатор всеобщности zewəž/zewəž'ə</a>
 ### Description
 
-NA
 
 
 ### Values
 There are the following value for each idiom:
 
-* Shapsug zewəž'ə [Керашева 1957: 254]
-* SWC zewəž [Керашева 1957: 254]
+* Shapsug  zewəž'ə [Керашева 1957: 254] (Имеет форму множественного числа zewəž'əxer.)
+* SWC  zewəž [Керашева 1957: 254] 
 

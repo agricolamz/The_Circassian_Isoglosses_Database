@@ -1,12 +1,11 @@
 ## 80. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/80.html'>наречие "сейчас"</a>
 ### Description
 
-NA
 
 
 ### Values
 There are the following value for each idiom:
 
-* SWC джы дэдэм [Ситимова 2004: 109]
-* Bzhedug идэдэм; идэдэ Iуращъэм "сию секунду" [Ситимова 2004: 109]
+* SWC  джы дэдэм [Ситимова 2004: 109] 
+* Bzhedug  идэдэм; идэдэ Iуращъэм "сию секунду" [Ситимова 2004: 109] 
 

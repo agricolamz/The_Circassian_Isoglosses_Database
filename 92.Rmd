@@ -1,12 +1,11 @@
 ## 92. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/92.html'>ответ на зов</a>
 ### Description
 
-NA
 
 
 ### Values
 There are the following value for each idiom:
 
-* Shapsug Уй [Керашева 1957: 278]
-* Bzhedug Эу [Ситимова 2004: 118]
+* Shapsug  Уй [Керашева 1957: 278] 
+* Bzhedug  Эу [Ситимова 2004: 118] 
 

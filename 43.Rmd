@@ -1,11 +1,10 @@
 ## 43. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/43.html'>выделение части из массы</a>
 ### Description
 
-NA
 
 
 ### Values
 There are the following value for each idiom:
 
-* Shapsug poss-adjective [Керашева 1957: 249]
+* Shapsug  poss-adjective [Керашева 1957: 249] 
 

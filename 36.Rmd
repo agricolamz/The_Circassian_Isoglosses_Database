@@ -3,11 +3,10 @@
 
 Сочетание -re- DYN и -a Q
 
-
 ### Values
 There are the following value for each idiom:
 
-* Abzakh -ra [Ситимова 2004: 97-98]
-* Bzhedug -aa [Ситимова 2004: 97-98]
-* Temirgoi -ra [Ситимова 2004: 97-98]
+* Abzakh  -ra [Ситимова 2004: 97-98] 
+* Bzhedug  -aa [Ситимова 2004: 97-98] 
+* Temirgoi  -ra [Ситимова 2004: 97-98] 
 

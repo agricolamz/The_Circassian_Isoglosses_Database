@@ -1,12 +1,11 @@
 ## 85. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/85.html'>ничего</a>
 ### Description
 
-NA
 
 
 ### Values
 There are the following value for each idiom:
 
-* Bzhedug zəce / zəcəqe / zəpʰa(r)jə [Ситимова 2004: 83-84]
-* Temirgoi zəcjə / zəcəqjə / parjə / c̣əwnṭe [Ситимова 2004: 83-84]
+* Bzhedug  zəce / zəcəqe / zəpʰa(r)jə [Ситимова 2004: 83-84] 
+* Temirgoi  zəcjə / zəcəqjə / parjə / c̣əwnṭe [Ситимова 2004: 83-84] 
 

@@ -1,11 +1,10 @@
 ## 135. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/135.html'>свинья</a>
 ### Description
 
-NA
 
 
 ### Values
 There are the following value for each idiom:
 
-* Shapsug уархъ [Керашева 1957: 278]
+* Shapsug  уархъ [Керашева 1957: 278] 
 

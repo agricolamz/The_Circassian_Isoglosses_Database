@@ -1,11 +1,10 @@
 ## 41. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/41.html'>восторг или ужас</a>
 ### Description
 
-NA
 
 
 ### Values
 There are the following value for each idiom:
 
-* Shapsug А пшъышъ [Керашева 1957: 278]
+* Shapsug  А пшъышъ [Керашева 1957: 278] 
 

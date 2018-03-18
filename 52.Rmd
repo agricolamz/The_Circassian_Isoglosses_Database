@@ -1,11 +1,10 @@
 ## 52. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/52.html'>"До свидания!"</a>
 ### Description
 
-NA
 
 
 ### Values
 There are the following value for each idiom:
 
-* Bzhedug хъярджэ [Ситимова 2004: 118]
+* Bzhedug  хъярджэ [Ситимова 2004: 118] 
 

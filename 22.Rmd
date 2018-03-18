@@ -1,11 +1,10 @@
 ## 22. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/22.html'>stem-pl - erg или abs</a>
 ### Description
 
-NA
 
 
 ### Values
 There are the following value for each idiom:
 
-* Kabardian Proper names, stem(VOC) [Кумахов 2013: 68]
+* Kabardian  Proper names, stem(VOC) [Кумахов 2013: 68] 
 

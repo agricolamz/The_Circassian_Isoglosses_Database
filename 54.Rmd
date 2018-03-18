@@ -1,12 +1,11 @@
 ## 54. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/54.html'>звательное</a>
 ### Description
 
-NA
 
 
 ### Values
 There are the following value for each idiom:
 
-* Shapsug Жьэу [Керашева 1957: 278]
-* Bzhedug эй, зэ! ей! эй-эй! [Ситимова 2004: 118]
+* Shapsug  Жьэу [Керашева 1957: 278] 
+* Bzhedug  эй, зэ! ей! эй-эй! [Ситимова 2004: 118] 
 

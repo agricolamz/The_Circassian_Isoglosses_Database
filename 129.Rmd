@@ -1,12 +1,11 @@
 ## 129. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/129.html'>редуплицированная форма</a>
 ### Description
 
-NA
 
 
 ### Values
 There are the following value for each idiom:
 
-* Bzhedug jež’-jež’-ew [Ситимова 2004: 81]
-* SWC ež’ež’ərew [Ситимова 2004: 81]
+* Bzhedug  jež’-jež’-ew [Ситимова 2004: 81] 
+* SWC  ež’ež’ərew [Ситимова 2004: 81] 
 

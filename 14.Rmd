@@ -1,12 +1,11 @@
 ## 14. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/14.html'>final vowel in imperatives</a>
 ### Description
 
-NA
 
 
 ### Values
 There are the following value for each idiom:
 
-* Shapsug да [Керашева 1957: 268]
-* SWC нет [Керашева 1957: 268]
+* Shapsug  да [Керашева 1957: 268] 
+* SWC  нет [Керашева 1957: 268] 
 

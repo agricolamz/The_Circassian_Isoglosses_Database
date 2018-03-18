@@ -1,11 +1,10 @@
 ## 144. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/144.html'>"Спасибо"</a>
 ### Description
 
-NA
 
 
 ### Values
 There are the following value for each idiom:
 
-* Bzhedug Тхъэм ынэш1у къыпщэф, тхьауегьэпсэу [Ситимова 2004: 118]
+* Bzhedug  Тхъэм ынэш1у къыпщэф, тхьауегьэпсэу [Ситимова 2004: 118] 
 

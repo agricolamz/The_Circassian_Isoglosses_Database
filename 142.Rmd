@@ -1,12 +1,11 @@
 ## 142. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/142.html'>союз "или"</a>
 ### Description
 
-NA
 
 
 ### Values
 There are the following value for each idiom:
 
-* Bzhedug hawərjə, hawjə [Ситимова 2004: 117]
-* SWC hawəmjə [Ситимова 2004: 117]
+* Bzhedug  hawərjə, hawjə [Ситимова 2004: 117] 
+* SWC  hawəmjə [Ситимова 2004: 117] 
 

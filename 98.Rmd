@@ -1,12 +1,11 @@
 ## 98. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/98.html'>показатель адвербиалиса</a>
 ### Description
 
-NA
 
 
 ### Values
 There are the following value for each idiom:
 
-* Kabardian -(PL)-ra-we [Кумахов 2013: 65--66]
-* SWC -(PL)-we [Рогава, Керашева 1966: 62]
+* Kabardian  -(PL)-ra-we [Кумахов 2013: 65--66] 
+* SWC  -(PL)-we [Рогава, Керашева 1966: 62] 
 

@@ -3,9 +3,8 @@
 
 Перечень данных форм
 
-
 ### Values
 There are the following value for each idiom:
 
-* Shapsug a-xe-r, a-r-xe-r / (?mə-xe-r) mə-r-xe-r / wə-xe-r, wə-r-xe-r [Керашева 1957: 251]
+* Shapsug  a-xe-r, a-r-xe-r / (?mə-xe-r) mə-r-xe-r / wə-xe-r, wə-r-xe-r [Керашева 1957: 251] 
 

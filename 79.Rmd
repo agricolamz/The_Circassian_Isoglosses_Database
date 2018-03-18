@@ -1,13 +1,12 @@
 ## 79. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/79.html'>наречие "здесь"</a>
 ### Description
 
-NA
 
 
 ### Values
 There are the following value for each idiom:
 
-* Bzhedug модж [Ситимова 2004: 109]
-* SWC мыщ [Ситимова 2004: 109]
-* Temirgoi мыкIи [Ситимова 2004: 109]
+* Bzhedug  модж [Ситимова 2004: 109] 
+* SWC  мыщ [Ситимова 2004: 109] 
+* Temirgoi  мыкIи [Ситимова 2004: 109] 
 

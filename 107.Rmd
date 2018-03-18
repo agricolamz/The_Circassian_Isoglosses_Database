@@ -1,13 +1,12 @@
 ## 107. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/107.html'>послелог "перед"</a>
 ### Description
 
-NA
 
 
 ### Values
 There are the following value for each idiom:
 
-* Bzhedug нэIу [Ситимова 2004: 111-112]
-* Shapsug гупэ [Ситимова 2004: 111-112]
-* Temirgoi гупэ [Ситимова 2004: 111-112]
+* Bzhedug  нэIу [Ситимова 2004: 111-112] 
+* Shapsug  гупэ [Ситимова 2004: 111-112] 
+* Temirgoi  гупэ [Ситимова 2004: 111-112] 
 

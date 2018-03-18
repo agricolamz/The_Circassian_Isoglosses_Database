@@ -3,10 +3,9 @@
 
 Значение 'в качестве X' выражается инструменталисом или адвербиалисом
 
-
 ### Values
 There are the following value for each idiom:
 
-* Shapsug INS [Керашева 1957: 244]
-* Temirgoi ADV [Керашева 1957: 244]
+* Shapsug  INS [Керашева 1957: 244] 
+* Temirgoi  ADV [Керашева 1957: 244] 
 

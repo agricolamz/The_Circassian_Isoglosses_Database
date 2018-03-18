@@ -19,23 +19,27 @@ read_tsv("https://raw.githubusercontent.com/agricolamz/The_Circassian_Isoglosses
   db
 
 db %>% 
-  mutate(value = paste(value, "<br>", source)) %>% 
+  mutate(value = paste(value, "<br>", source)) %>%
+  group_by(id) %>% 
+  mutate(impact = n()) %>%
   group_by(id, idiom) %>% 
   mutate(value = str_c(value, collapse = "<br>")) %>% 
-  select(title, contributor, idiom, value) %>% 
+  select(impact, title, topic, contributor, idiom, value) %>% 
   distinct() %>% 
   spread(idiom, value) %>% 
   mutate_all(function(x){ifelse(is.na(x), "", x)}) %>% 
-  datatable(escape = FALSE, rownames = FALSE,  
+  datatable(escape = FALSE, rownames = FALSE,
+            extensions = c('ColReorder', 'Buttons'),
             filter = list(position = 'top', clear = TRUE),
-            options = list(pageLength = 20, dom = 'tip', autoWidth = TRUE))
+            options = list(pageLength = 20, dom = 'Btip', autoWidth = TRUE, colReorder = TRUE, buttons = I('colvis')))
 ```
 
 #### Whole dataset
 ```{r}
 DT::datatable(db[,-6],escape = FALSE, rownames = FALSE,
+              extensions = c('ColReorder', 'Buttons'),
               filter = list(position = 'top', clear = TRUE),
-              options = list(pageLength = 20, dom = 'tip', autoWidth = TRUE)) # remove description column
+              options = list(pageLength = 20, dom = 'Btip', autoWidth = TRUE, colReorder = TRUE, buttons = I('colvis'))) # remove description column
 ```
 
 
@@ -46,17 +50,28 @@ sapply(seq_along(db$id), function(i){
   indexes <- which(db$id %in% db$id[i])
   title <- paste0("## ", db$id[i], ". ", db$title[i])
   description <- c("### Description", "", 
-                   db$description[i], "",
-                   db$comment[!is.na(db$comment[i])], "")
+                   ifelse(is.na(db$description[i]), "", db$description[i]),
+                   "")
+  
+  db$comment[!is.na(db$comment)] <- paste0("(", db$comment[!is.na(db$comment)], ")")
+  db$comment[is.na(db$comment)] <- ""
+    db$village[!is.na(db$village)] <- paste0("(", db$village[!is.na(db$village)], ")")
+  db$village[is.na(db$village)] <- ""
+  
+  
   values <- c("### Values",
               "There are the following value for each idiom:",
               "",
-              paste("*", db$idiom[indexes], db$value[indexes], db$source[indexes]), 
+              paste("*", 
+                    db$idiom[indexes],
+                    db$village[indexes],
+                    db$value[indexes], 
+                    db$source[indexes],
+                    db$comment[indexes]), 
               "")
   text <- c(title, description, values)
   writeLines(text, paste0(db$id[i], ".Rmd"))
   }
 )
-
 ```
 

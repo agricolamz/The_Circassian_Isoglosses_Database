@@ -1,13 +1,12 @@
 ## 30. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/30.html'>"аорист"</a>
 ### Description
 
-NA
 
 
 ### Values
 There are the following value for each idiom:
 
-* Abzakh -zə [Кумахова 1972: 76-77]
-* Abzakh -jə, -jə-zə [Кумахова 1972: 76-77]
-* SWC -jə [Кумахова 1972: 76]
+* Abzakh  -zə [Кумахова 1972: 76-77] (конверб будущего времени)
+* Abzakh  -jə, -jə-zə [Кумахова 1972: 76-77] 
+* SWC  -jə [Кумахова 1972: 76] 
 

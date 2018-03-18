@@ -1,13 +1,12 @@
 ## 4. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/4.html'>abs and erg marking (in sg?)</a>
 ### Description
 
-NA
 
 
 ### Values
 There are the following value for each idiom:
 
-* Bzhedug нет [Ситимова 2004: 80]
-* Temirgoi да [Тхаркахо 1993: 94]
-* Bzhedug нет [Тхаркахо 1993: 94]
+* Bzhedug  нет [Ситимова 2004: 80] 
+* Temirgoi  да [Тхаркахо 1993: 94] 
+* Bzhedug  нет [Тхаркахо 1993: 94] 
 

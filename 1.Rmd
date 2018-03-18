@@ -1,11 +1,10 @@
 ## 1. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/1.html'>2pl pronoun + 2sg index</a>
 ### Description
 
-NA
 
 
 ### Values
 There are the following value for each idiom:
 
-* Shapsug да [Керашева 1957: 259-260]
+* Shapsug  да [Керашева 1957: 259-260] 
 

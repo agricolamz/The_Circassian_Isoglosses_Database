@@ -3,11 +3,10 @@
 
 The numerals with meaning like "N times" are formed by attaching the suffix -e. The fractional numerals are analysed ro be formed by attaching -ne to the previous numerals (i.e. by attaching -e-ne). In such forms the e~a alternation works, so the end in -ane (thus we suppose that these suffixes are in the stem). The cardinal numerals are analysed to be formed with the prefix ja- [3pl.io.poss] and the suffix -re, but the vowel a is substituted by the vowel e (how we can analyse it in terms of the stem border?). In Bzhedug in such forms the vowel alternation is remained in -ane (thus we suppose that -re is not in the stem)
 
-
 ### Values
 There are the following value for each idiom:
 
-* SWC -enere [Рогава, Керашева 1966: 80-81]
-* SWC -enere [Ситимова 2004: 73-74]
-* Bzhedug -anere [Ситимова 2004: 73-74]
+* SWC  -enere [Рогава, Керашева 1966: 80-81] 
+* SWC  -enere [Ситимова 2004: 73-74] 
+* Bzhedug  -anere [Ситимова 2004: 73-74] 
 
