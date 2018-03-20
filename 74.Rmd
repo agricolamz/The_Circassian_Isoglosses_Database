@@ -1,4 +1,4 @@
-## 74. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/74.html'>наличие -а "перфект"</a>
+## 74. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/74.html'>конверб на координатив -re</a>
 ### Description
 
 
@@ -6,8 +6,7 @@
 ### Values
 There are the following value for each idiom:
 
-* Abzakh  да [Кумахова 1972: 80-81] (в абадз "неустойчивая диалектная форма")
-* Kabardian  да (+ copula -š') [Кумахова 1972: 80-81] (в абадз "неустойчивая диалектная форма")
-* Kuban  да [Кумахова 1972: 80-81] (в абадз "неустойчивая диалектная форма")
-* SWC  нет [Кумахова 1972: 80-81] (в абадз "неустойчивая диалектная форма")
+* Abzakh  да [Кумахова 1972: 81] 
+* Kabardian  да [Кумахова 1972: 81] 
+* Temirgoi  да [Ситимова 2004: 108] 
 

@@ -1,10 +1,12 @@
-## 40. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/40.html'>восторг</a>
+## 40. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/40.html'>индекс 3sg.erg</a>
 ### Description
 
-
+В значениях изоглоссы собраны отмеченные особенности реализации эргативного префикса третьего лица единственного числа
 
 ### Values
 There are the following value for each idiom:
 
-* Bzhedug  Уа [Ситимова 2004: 118] 
+* Kabardian  jə- в прошедшем [Керашева 1957: 258-259] 
+* Shapsug  jə- после директива [Керашева 1957: 258-259] 
+* SWC  ə- в прошедшем и будущем [Керашева 1957: 258-259] 
 

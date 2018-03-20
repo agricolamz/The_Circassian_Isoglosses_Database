@@ -1,10 +1,11 @@
-## 84. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/84.html'>непонятные местоимения</a>
+## 84. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/84.html'>междометие сожаления</a>
 ### Description
 
-корт-ер столько-abs, инагъ - величина
+Приведены междометия, используемые для выражения сожаления.
 
 ### Values
 There are the following value for each idiom:
 
-* Shapsug  kʷerter "сколько", dexer "они", naʁ "столько" [Керашева 1957: 254-255] (Из примеров видно, что переводы очень условные)
+* Shapsug  gʷš'e [Керашева 1957: 278] (В бжедугском это суффикс (ЮЛ))
+* Bzhedug  Аэнасын! о-уииу-уиу! е о-ой! е-ей, зэ! а шъыу! [Ситимова 2004: 118-119] 
 

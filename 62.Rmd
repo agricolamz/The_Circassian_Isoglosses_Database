@@ -1,4 +1,4 @@
-## 62. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/62.html'>квантификатор всеобщности pstewə(rjə)</a>
+## 62. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/62.html'>конверб на -ŝə</a>
 ### Description
 
 
@@ -6,5 +6,6 @@
 ### Values
 There are the following value for each idiom:
 
-* Bzhedug  нет [Ситимова 2004: 82] (В бжедугском диалекте почти не встречается.)
+* Temirgoi  да [Ситимова 2004: 85-86] (При перечислении последовательно произошедших в прошлом событий, глагол, обозначающий первое из них, оформляется разными суффиксами.)
+* Temirgoi  да [Тхаркахо 1993: 84] (При перечислении последовательно произошедших в прошлом событий, глагол, обозначающий первое из них, оформляется разными суффиксами.)
 

@@ -1,11 +1,11 @@
-## 129. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/129.html'>редуплицированная форма</a>
+## 129. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/129.html'>преверб "в сторону"</a>
 ### Description
 
-
+"В бжедугском более употребителен сложный преверб..."
 
 ### Values
 There are the following value for each idiom:
 
-* Bzhedug  jež’-jež’-ew [Ситимова 2004: 81] 
-* SWC  ež’ež’ərew [Ситимова 2004: 81] 
+* Bzhedug  dere [Ситимова 2004: 104] 
+* Temirgoi  de [Ситимова 2004: 104] 
 

@@ -1,4 +1,4 @@
-## 64. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/64.html'>квантификатор всеобщности zewəž/zewəž'ə</a>
+## 64. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/64.html'>конверб на -ŝ-jə</a>
 ### Description
 
 
@@ -6,6 +6,6 @@
 ### Values
 There are the following value for each idiom:
 
-* Shapsug  zewəž'ə [Керашева 1957: 254] (Имеет форму множественного числа zewəž'əxer.)
-* SWC  zewəž [Керашева 1957: 254] 
+* Temirgoi  да [Ситимова 2004: 85-86] (При перечислении последовательно произошедших в прошлом событий, глагол, обозначающий первое из них, оформляется разными суффиксами.)
+* Temirgoi  да [Тхаркахо 1993: 84] (При перечислении последовательно произошедших в прошлом событий, глагол, обозначающий первое из них, оформляется разными суффиксами.)
 

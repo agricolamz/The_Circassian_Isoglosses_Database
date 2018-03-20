@@ -1,15 +1,10 @@
-## 141. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/141.html'>сочинение императивов</a>
+## 141. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/141.html'>превосходная степень</a>
 ### Description
 
-При сочинении двух императивов, первый из них оформляется разными суффиксами
+Говорится о конеструкции, в которой выделяется подмножество по какому-то признаку (например, 'самые лучше овцы')
 
 ### Values
 There are the following value for each idiom:
 
-* Abzakh  -jə [Ситимова 2004: 87] 
-* Shapsug  -jə [Ситимова 2004: 87] 
-* Bzhedug  -rjə, -jə, -jeje [Ситимова 2004: 87] 
-* Temirgoi  -jə [Ситимова 2004: 87] 
-* Bzhedug  -rjə [Тхаркахо 1993: 83] 
-* Temirgoi  -jə [Тхаркахо 1993: 83] 
+* Shapsug  poss-прилагательное [Керашева 1957: 249] 
 

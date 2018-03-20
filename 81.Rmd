@@ -1,11 +1,11 @@
-## 81. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/81.html'>наречие "там"</a>
+## 81. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/81.html'>междометие восторга</a>
 ### Description
 
-
+Приведены междометия, используемые для выражения восторга.
 
 ### Values
 There are the following value for each idiom:
 
-* Temirgoi  мокIэ, модэ [Ситимова 2004: 109] 
-* Bzhedug  ɣодэ, ɣодж, уа одж [Ситимова 2004: 109] 
+* Bzhedug  Уа [Ситимова 2004: 118] 
+* Shapsug  А пшъышъ [Керашева 1957: 278] (Также может выражать и ужас)
 

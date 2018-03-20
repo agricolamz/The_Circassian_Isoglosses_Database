@@ -1,4 +1,4 @@
-## 94. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/94.html'>подтверждение</a>
+## 94. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/94.html'>наречие "там"</a>
 ### Description
 
 
@@ -6,5 +6,6 @@
 ### Values
 There are the following value for each idiom:
 
-* Bzhedug  ыɣы [Ситимова 2004: 119] 
+* Temirgoi  мокIэ, модэ [Ситимова 2004: 109] 
+* Bzhedug  ɣодэ, ɣодж, уа одж [Ситимова 2004: 109] 
 

@@ -1,13 +1,12 @@
-## 89. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/89.html'>обстоятельство времени</a>
+## 89. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/89.html'>метатеза -re ADD и -me OBL</a>
 ### Description
 
-Обстоятельство времени, выраженное глагольной словоформой оформляется с помощью релятивного префикса z- и показателя обликвуса -m
+Носители не смогли осознать
 
 ### Values
 There are the following value for each idiom:
 
-* Shapsug  INS [Керашева 1957: 245] 
-* Temirgoi  OBL или -re [Керашева 1957: 245] 
-* Shapsug  z- — -m [Керашева 1957: 269] 
-* SWC  z- — -m [Керашева 1957: 269] 
+* NA (Malyi Kichmai) да [Керашева 1957: 276-277] 
+* NA (Pseituk) да [Керашева 1957: 276-277] 
+* SWC  нет [Керашева 1957: 276-277] 
 

@@ -1,10 +1,10 @@
-## 146. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/146.html'>стук</a>
+## 146. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/146.html'>проклятие "Пусть провалится!"</a>
 ### Description
 
-
+Приведено одно проклятие
 
 ### Values
 There are the following value for each idiom:
 
-* Shapsug  цау, тIыркъу-щыркъу [Керашева 1957: 278] 
+* Bzhedug  тхьам пхырегъэз [Ситимова 2004: 118] (более присуще женщинам)
 

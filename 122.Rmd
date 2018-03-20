@@ -1,11 +1,12 @@
-## 122. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/122.html'>превербы t-, qʷ-, gʷ-</a>
+## 122. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/122.html'>послелог "перед"</a>
 ### Description
 
-gʷ- в шапсугском иногда заменяет t-, qʷ-
+
 
 ### Values
 There are the following value for each idiom:
 
-* Shapsug  gʷ-, t-, qʷ- [Керашева 1957: 257] (предположительно, значение типа APUD)
-* SWC  t-, qʷ- NA (предположительно, значение типа APUD)
+* Bzhedug  нэIу [Ситимова 2004: 111-112] 
+* Shapsug  гупэ [Ситимова 2004: 111-112] 
+* Temirgoi  гупэ [Ситимова 2004: 111-112] 
 

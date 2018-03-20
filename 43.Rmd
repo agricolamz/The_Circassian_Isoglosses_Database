@@ -1,10 +1,10 @@
-## 43. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/43.html'>выделение части из массы</a>
+## 43. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/43.html'>использование индекса 2sg вместо 2pl</a>
 ### Description
 
-
+При некоторых глаголах в шапсугском возможно использование индекса второго лица единственного числа вместо множественного.
 
 ### Values
 There are the following value for each idiom:
 
-* Shapsug  poss-adjective [Керашева 1957: 249] 
+* Shapsug  да [Керашева 1957: 259-260] 
 

@@ -1,4 +1,4 @@
-## 49. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/49.html'>где?</a>
+## 49. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/49.html'>конверб на -gʷe-re</a>
 ### Description
 
 
@@ -6,6 +6,6 @@
 ### Values
 There are the following value for each idiom:
 
-* Bzhedug  tʰe š'əʔ / разг. tʰjeʔ (тhеI) [Ситимова 2004: 81] 
-* SWC  təde [Ситимова 2004: 81] (В [Ситимова 2004:81] написано "<...> восточных диалектов и адыгейского литературного языка")
+* Abzakh  да [Кумахова 1972: 81] 
+* Shapsug  да [Керашева 1957: 271-272] 
 

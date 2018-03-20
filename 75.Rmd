@@ -1,12 +1,11 @@
-## 75. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/75.html'>наличие показателя -rjə</a>
+## 75. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/75.html'>конечный гласный в императиве</a>
 ### Description
 
-
+Конечный гласный может отпадать в формах императива.
 
 ### Values
 There are the following value for each idiom:
 
-* Kabardian  да [Керашева 1957: 271] 
-* Shapsug  да [Керашева 1957: 271] 
-* SWC  нет [Керашева 1957: 271] 
+* Shapsug  да [Керашева 1957: 268] 
+* SWC  нет [Керашева 1957: 268] 
 

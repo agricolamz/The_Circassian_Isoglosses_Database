@@ -1,10 +1,16 @@
-## 147. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/147.html'>стук шагов</a>
+## 147. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/147.html'>противительный союз</a>
 ### Description
 
-
+Союз переводится с помощью русского союза но: "C1 ŝhaj, C2" = "C1, но C2"
 
 ### Values
 There are the following value for each idiom:
 
-* Shapsug  цыкъ-щыкъ [Керашева 1957: 278] 
+* Shapsug  ŝhaje [Керашева 1957: 246] 
+* Temirgoi  ŝhač̣’e [Керашева 1957: 246] 
+* Bzhedug  ŝhaj [Тхаркахо 1993: 90] 
+* NA (Dzhambechi) ŝhaj [Тхаркахо 1993: 90] 
+* Temirgoi  ŝhaj / ŝhač̣’e [Тхаркахо 1993: 90] 
+* Bzhedug  ŝhaj / ŝhajǯe [Ситимова 2004: 117] 
+* Temirgoi  ŝhaj / ŝhač̣’e [Ситимова 2004: 117] 
 

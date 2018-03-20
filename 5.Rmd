@@ -1,10 +1,11 @@
-## 5. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/5.html'>all N people</a>
+## 5. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/5.html'>ассимиляция индекса 2sg.io / 2sg.erg перед согласным /p/</a>
 ### Description
 
-In Bzhedug there are special prefix aj-/əj- which can be attached to the numerals 'two', 'three', 'four' and 'five', bearing the meaning 'all N people
+Неабсолютивный индекс второго лица единственного числа w- обычно перед согласными переходит в p-. Перед согласным /p/ этого может не происходить
 
 ### Values
 There are the following value for each idiom:
 
-* Bzhedug  aj-/əj- (2, 3, 4, 5) [Ситимова 2004: 74] 
+* Bzhedug  ассимилируется перед /p/ [Тхаркахо 1993: 71] 
+* Temirgoi  не ассимилируется перед /p/ [Тхаркахо 1993: 71] 
 

@@ -1,17 +1,10 @@
-## 42. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/42.html'>все конвербы состоящие из элементов -ze-, -re-, -we-, -gʷe-, -zeʁʷe-</a>
+## 42. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/42.html'>инструменталис множественного</a>
 ### Description
 
-Наборы данных показателей инфинитного подчинения упоминаются вместе и часто "заменяют" одни других в разных диалектах. Видимо, сферы их использования пересекаются.
+
 
 ### Values
 There are the following value for each idiom:
 
-* Bzhedug  -gʷezeʁʷe [Керашева 1957: 270] 
-* Shapsug  -jə, -rjə, -gʷe, -gʷere, -gʷere(-m)-gʲe, -gʷeze, -gʷezeʁʷe, -zeʁʷe, редко -gʷezeʁʷəgʲe [Керашева 1957: 271-272] 
-* Kabardian  -re [Кумахова 1972: 81] 
-* SWC  -we, -ze, -zere, -gʷeze, -gʷezere [Кумахова 1972: 81] 
-* Abzakh  -we, -ze, -re, -zere, -gʷere, -gʷeze, -gʷezere [Кумахова 1972: 81] 
-* Abzakh  -ze, -w, -ew [Ситимова 2004: 108] 
-* Temirgoi  -w, -ew, -gʷezere, -re, -ze [Ситимова 2004: 108] 
-* Bzhedug  -w, -ew, -gʷe, -gʷewe, -ze, -gʷeze, -zeʁʷe [Ситимова 2004: 108] 
+* Bzhedug  Присоединяется к основе на -š’ [Ситимова 2004: 79] 
 

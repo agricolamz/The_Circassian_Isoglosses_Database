@@ -1,4 +1,4 @@
-## 32. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/32.html'>бенефактивный послелог</a>
+## 32. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/32.html'>звукоподражание: птица</a>
 ### Description
 
 
@@ -6,6 +6,5 @@
 ### Values
 There are the following value for each idiom:
 
-* Shapsug  фэшI [Керашева 1957: 245] 
-* SWC  paje [Керашева 1957: 245] 
+* Shapsug  c̣ərə-š'ərə [Керашева 1957: 278] 
 

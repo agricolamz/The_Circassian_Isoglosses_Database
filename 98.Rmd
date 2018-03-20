@@ -1,11 +1,10 @@
-## 98. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/98.html'>показатель адвербиалиса</a>
+## 98. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/98.html'>непонятные местоимения</a>
 ### Description
 
-
+корт-ер столько-abs, инагъ - величина
 
 ### Values
 There are the following value for each idiom:
 
-* Kabardian  -(PL)-ra-we [Кумахов 2013: 65--66] 
-* SWC  -(PL)-we [Рогава, Керашева 1966: 62] 
+* Shapsug  kʷerter "сколько", dexer "они", naʁ "столько" [Керашева 1957: 254-255] (Из примеров видно, что переводы очень условные)
 

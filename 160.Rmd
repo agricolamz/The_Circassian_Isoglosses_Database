@@ -1,0 +1,10 @@
+## 160. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/160.html'>союз "не только ..., но и ..."</a>
+### Description
+
+Для слов со значением c̣əḳʷ ‘маленький’ и ṭeḳʷ ‘немного’ используется особый показатель превосходной степени.
+
+### Values
+There are the following value for each idiom:
+
+* SWC  pʰaḳʷepəŝ [Ситимова 2004: 117] (Вторая клауза оформлена эмфатическим -ba.)
+

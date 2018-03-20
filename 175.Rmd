@@ -1,0 +1,14 @@
+## 175. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/175.html'>эргатив плюралиса</a>
+### Description
+
+Эргатив множественного числа существительных в адыгейских диалектах маркируется суффиксом -мэ. В литературном адыгейском языке существуют варианты с показателем множественного числа: -хэ-мэ, -хэ-м.
+
+### Values
+There are the following value for each idiom:
+
+* Shapsug  -me [Керашева 1957: 243] 
+* Kabardian  -PL-m [Кумахов 2013: 65-66] 
+* Kuban  редко -me [Кумахова 1972: 68] 
+* SWC  -PL-m / (-PL)-me [Рогава, Керашева 1966: 62] 
+* Bzhedug  -me [Ситимова 2004: 63] 
+

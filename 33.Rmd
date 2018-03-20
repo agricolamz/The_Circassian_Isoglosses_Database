@@ -1,4 +1,4 @@
-## 33. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/33.html'>вверх</a>
+## 33. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/33.html'>звукоподражание: свинья</a>
 ### Description
 
 
@@ -6,6 +6,5 @@
 ### Values
 There are the following value for each idiom:
 
-* SWC  d- — -j [Керашева 1957: 255-256] 
-* Shapsug  преверб č̣’e- + корневой ə [Керашева 1957: 256] (Под корневым -ə- имеется в виду, что если глагол имеет в корне -e-, то он переходит в -ə-.)
+* Shapsug  warχ [Керашева 1957: 278] 
 

@@ -1,11 +1,10 @@
-## 90. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/90.html'>обстоятельство условия</a>
+## 90. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/90.html'>мужские междометия</a>
 ### Description
 
-Обстоятельство условия, выраженное глагольной словоформой в шапсугском оформляется с помощью релятивного префикса z- и показателя обликвуса -m.
+Приведены междометия, используемые мужчинами.
 
 ### Values
 There are the following value for each idiom:
 
-* Shapsug  z- — -m [Керашева 1957: 270] 
-* SWC  z- — -č̣’ (реже z- — -m) [Керашева 1957: 270] 
+* Bzhedug  Зиунагъо бэгъон, алахьэр сэгъэщ1ы, алахьэм ыц1эджэ тхьэ сэ1о [Ситимова 2004: 118] (Содержат упоминание бога.)
 

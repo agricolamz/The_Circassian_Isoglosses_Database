@@ -1,11 +1,13 @@
-## 8. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/8.html'>causative u- (менее продуктивный)</a>
+## 8. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/8.html'>вербализатор wə-</a>
 ### Description
 
-
+В диалектах существует не очень продуктивный вербализатор, выражающий разные значения, в том числе каузативное
 
 ### Values
 There are the following value for each idiom:
 
 * Shapsug  да [Керашева 1957: 266-267] 
 * SWC  нет [Керашева 1957: 266-267] 
+* Bzhedug  да [Тхаркахо 1993: 70-71] (Сообщает слову значение прерывности, однократности)
+* Temirgoi  нет [Тхаркахо 1993: 70-71] 
 

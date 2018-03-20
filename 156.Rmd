@@ -1,0 +1,10 @@
+## 156. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/156.html'>собирательная форма числительного</a>
+### Description
+
+В бжедугском есть префикс aj-/əj-, который присоединяется к числительным 2, 3, 4 и 5, выражая собирательное значение ('все двое', 'все трое' и т.д.).
+
+### Values
+There are the following value for each idiom:
+
+* Bzhedug  aj-/əj- (2, 3, 4, 5) [Ситимова 2004: 74] 
+

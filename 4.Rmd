@@ -1,12 +1,13 @@
-## 4. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/4.html'>abs and erg marking (in sg?)</a>
+## 4. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/4.html'>аналитический аддитив</a>
 ### Description
 
-
+В изоглоссе приведены аналитические показатели аналитива.
 
 ### Values
 There are the following value for each idiom:
 
-* Bzhedug  нет [Ситимова 2004: 80] 
-* Temirgoi  да [Тхаркахо 1993: 94] 
-* Bzhedug  нет [Тхаркахо 1993: 94] 
+* Bzhedug  əǯjə [Тхаркахо 1993: 96] 
+* Bzhedug  əǯjə [Ситимова 2004: 117] 
+* SWC  əč̣’jə [Ситимова 2004: 117] 
+* Temirgoi  əč̣’jə [Тхаркахо 1993: 96] 
 

@@ -1,11 +1,11 @@
-## 142. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/142.html'>союз "или"</a>
+## 142. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/142.html'>превосходная степень прилагательных</a>
 ### Description
 
-
+Суффикс, образующий превосходную степень прилагательных выглядит в бжедугском как -qeps, а в других диалектах (пример только из темиргоевского) как -qeps и -qəc. К нему может присоединяться синонимичный -bz, однако для темиргоевского приведена форма на -qəcəbz, но не -qepsəbz.
 
 ### Values
 There are the following value for each idiom:
 
-* Bzhedug  hawərjə, hawjə [Ситимова 2004: 117] 
-* SWC  hawəmjə [Ситимова 2004: 117] 
+* Shapsug  -qeps(əbz) [Ситимова 2004: 72] 
+* Temirgoi  -qəps, -qəc(əbz) [Ситимова 2004: 72] 
 

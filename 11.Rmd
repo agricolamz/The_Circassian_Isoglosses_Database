@@ -1,4 +1,4 @@
-## 11. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/11.html'>diminutive</a>
+## 11. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/11.html'>вопросительное слово "когда?"</a>
 ### Description
 
 
@@ -6,5 +6,6 @@
 ### Values
 There are the following value for each idiom:
 
-* Shapsug  цIыкIу, -жъый [Керашева 1957: 248] 
+* Bzhedug  ŝədəʁʷ [Ситимова 2004: 81] 
+* SWC  sədəjʁʷ [Ситимова 2004: 81] (В [Ситимова 2004:81] написано "<...> восточных диалектов и адыгейского литературного языка")
 

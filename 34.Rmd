@@ -1,11 +1,10 @@
-## 34. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/34.html'>вводное слово "всё же"</a>
+## 34. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/34.html'>звукоподражание: стук</a>
 ### Description
 
-Образуется по модели что(-m)-jə. Переводится как "что бы там ни было".
+
 
 ### Values
 There are the following value for each idiom:
 
-* Bzhedug  ŝəd(m)jə [Ситимова 2004: 84] 
-* SWC  səd(m)jə [Ситимова 2004: 84] 
+* Shapsug  caw, ṭərqʷ-š'ərqʷ [Керашева 1957: 278] 
 

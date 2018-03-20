@@ -1,12 +1,12 @@
-## 37. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/37.html'>вниз</a>
+## 37. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/37.html'>значение "наперегонки"</a>
 ### Description
 
-
+Значение "наперегонки" может выражаться морфологически в префиксальной зоне сказуемого
 
 ### Values
 There are the following value for each idiom:
 
-* SWC  je- — -x [Керашева 1957: 255-256] 
-* NA (Agui) преверб ŝhe- + корневой ə [Керашева 1957: 256] 
-* NA (Psybe) преверб ŝhe- + корневой ə [Керашева 1957: 256] 
+* Kabardian  ze-de- [rec-com-] [Керашева 1957: 264] 
+* Shapsug  ze-fe- [rec-ben-] [Керашева 1957: 264] 
+* SWC  преверб п- [Керашева 1957: 264] 
 

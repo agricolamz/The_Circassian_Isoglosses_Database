@@ -1,4 +1,4 @@
-## 92. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/92.html'>ответ на зов</a>
+## 92. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/92.html'>наречие "здесь"</a>
 ### Description
 
 
@@ -6,6 +6,7 @@
 ### Values
 There are the following value for each idiom:
 
-* Shapsug  Уй [Керашева 1957: 278] 
-* Bzhedug  Эу [Ситимова 2004: 118] 
+* Bzhedug  модж [Ситимова 2004: 109] 
+* SWC  мыщ [Ситимова 2004: 109] 
+* Temirgoi  мыкIи [Ситимова 2004: 109] 
 

@@ -1,4 +1,4 @@
-## 93. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/93.html'>отсутствие эргативного префикса в прохибитиве при наличии других префиксов</a>
+## 93. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/93.html'>наречие "сейчас"</a>
 ### Description
 
 
@@ -6,6 +6,6 @@
 ### Values
 There are the following value for each idiom:
 
-* Shapsug  нет [Керашева 1957: 261-262] (не только в повелительном наклонении, но и в "абсолютивах" - а может быть где-то еще?)
-* SWC  да [Керашева 1957: 261-262] (не только в повелительном наклонении, но и в "абсолютивах" - а может быть где-то еще?)
+* SWC  джы дэдэм [Ситимова 2004: 109] 
+* Bzhedug  идэдэм; идэдэ Iуращъэм "сию секунду" [Ситимова 2004: 109] 
 

@@ -1,13 +1,11 @@
-## 151. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/151.html'>удивление</a>
+## 151. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/151.html'>релятивизация места без преверба</a>
 ### Description
 
-
+В шапсугском релятивизация места не бывает без пространственного преверба.
 
 ### Values
 There are the following value for each idiom:
 
-* NA (Khadzhyko) Иу! Их! [Керашева 1957: 278] 
-* NA (Kirov) Иу! Их! [Керашева 1957: 278] 
-* Shapsug  Яль [Керашева 1957: 278] 
-* Bzhedug  Уаа-уау! Ал! [Керашева 1957: 278] 
+* Shapsug  нет [Керашева 1957: 269-270] 
+* SWC  да [Керашева 1957: 269-270] 
 

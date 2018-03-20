@@ -1,11 +1,13 @@
-## 85. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/85.html'>ничего</a>
+## 85. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/85.html'>междометие удивления</a>
 ### Description
 
-
+Приведены междометия, используемые для выражения удивления.
 
 ### Values
 There are the following value for each idiom:
 
-* Bzhedug  zəce / zəcəqe / zəpʰa(r)jə [Ситимова 2004: 83-84] 
-* Temirgoi  zəcjə / zəcəqjə / parjə / c̣əwnṭe [Ситимова 2004: 83-84] 
+* NA (Khadzhyko) Иу! Их! [Керашева 1957: 278] 
+* NA (Kirov) Иу! Их! [Керашева 1957: 278] 
+* Shapsug  Яль [Керашева 1957: 278] 
+* Bzhedug  Уаа-уау! Ал! [Керашева 1957: 278] 
 

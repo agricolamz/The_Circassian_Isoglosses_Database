@@ -1,4 +1,4 @@
-## 73. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/73.html'>мужские междометия</a>
+## 73. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/73.html'>конверб на адвербиалис -ew</a>
 ### Description
 
 
@@ -6,5 +6,7 @@
 ### Values
 There are the following value for each idiom:
 
-* Bzhedug  Зиунагъо бэгъон, алахьэр сэгъэщ1ы, алахьэм ыц1эджэ тхьэ сэ1о [Ситимова 2004: 118] (Содержат упоминание бога.)
+* Abzakh  да [Ситимова 2004: 108] 
+* Bzhedug  да [Ситимова 2004: 108] 
+* Temirgoi  да [Ситимова 2004: 108] 
 

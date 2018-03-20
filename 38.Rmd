@@ -1,10 +1,11 @@
-## 38. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/38.html'>волк</a>
+## 38. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/38.html'>значение функтива</a>
 ### Description
 
-
+Значение 'в качестве X' выражается инструменталисом или адвербиалисом
 
 ### Values
 There are the following value for each idiom:
 
-* Shapsug  гъытхъ [Керашева 1957: 278] 
+* Shapsug  INS [Керашева 1957: 244] 
+* Temirgoi  ADV [Керашева 1957: 244] 
 

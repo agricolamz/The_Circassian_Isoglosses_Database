@@ -1,10 +1,11 @@
-## 149. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/149.html'>"Счастливого пути!"</a>
+## 149. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/149.html'>редуплицированная форма</a>
 ### Description
 
-
+От местоимения-интенсификатора образуется редуплицированная форма, обозначающая "сам по себе"
 
 ### Values
 There are the following value for each idiom:
 
-* Bzhedug  гъогумаф [Ситимова 2004: 118] 
+* Bzhedug  jež’-jež’-ew [Ситимова 2004: 81] 
+* SWC  jež’-jež’-ər-ew [Ситимова 2004: 81] 
 

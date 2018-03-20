@@ -1,11 +1,11 @@
-## 82. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/82.html'>наречие "теперь"</a>
+## 82. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/82.html'>междометие ответа на зов</a>
 ### Description
 
-
+Приведены междометия, используемые для ответа на зов.
 
 ### Values
 There are the following value for each idiom:
 
-* Bzhedug  ыдж [Ситимова 2004: 109] 
-* SWC  джы [Ситимова 2004: 109] 
+* Shapsug  Уй [Керашева 1957: 278] 
+* Bzhedug  Эу [Ситимова 2004: 118] 
 

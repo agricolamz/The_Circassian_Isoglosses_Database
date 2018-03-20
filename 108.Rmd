@@ -1,13 +1,11 @@
-## 108. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/108.html'>послелог "сверху"</a>
+## 108. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/108.html'>падежный маркер на обладаемом</a>
 ### Description
 
-
+В адыгейском падежные показатели не присоединяются к обладаемым именам в единственном числе и не являющимся при этом посессорами. В кабардинском языке обладаемые имена присоединяют падежные показатели.
 
 ### Values
 There are the following value for each idiom:
 
-* SWC  кIыIу [Ситимова 2004: 111-112] 
-* Shapsug  кIыIу [Ситимова 2004: 111-112] 
-* Temirgoi  кIыIу [Ситимова 2004: 111-112] 
-* Bzhedug  чыIу [Ситимова 2004: 111-112] 
+* Kabardian  да [Кумахов 2013: 74] 
+* SWC  нет [Рогава, Керашева 1966: 70] 
 

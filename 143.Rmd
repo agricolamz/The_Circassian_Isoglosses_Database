@@ -1,10 +1,11 @@
-## 143. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/143.html'>союз "не только ..., но и ..."</a>
+## 143. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/143.html'>предикативная форма местоимений</a>
 ### Description
 
-Союз переводится с помощью русского составного союза но: "C1 пhaкIопышъ, C2" = "не только C1, но и C2".
+Предикативная форма образуется суффиксом -rə, который может присоединяться к корню, а может к основе на -r
 
 ### Values
 There are the following value for each idiom:
 
-* SWC  пhaкIопышъ [Ситимова 2004: 117] (Вторая клауза оформлена эмфатическим -ba.)
+* Bzhedug  -ra-rə [Тхаркахо 1993: 93] 
+* Temirgoi  -rə [Тхаркахо 1993: 93] 
 

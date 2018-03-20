@@ -1,11 +1,12 @@
-## 153. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/153.html'>фактивный преверб</a>
+## 153. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/153.html'>релятивизация причины</a>
 ### Description
 
-Данный аппликатив используется при релятивизации факта (см. обсуждение статуса элемента зэрэ-/зэры- в [Герасимов, Ландер: 2008]).
+В бжедугском и абадзехском для релятивизации причины используется zə-č̣’e-, а в темиргоевском č̣’e-
 
 ### Values
 There are the following value for each idiom:
 
-* SWC  re- [Тхаркахо 1993: 78] 
-* Temirgoi  rə- [Тхаркахо 1993: 78] 
+* Bzhedug  zə-č̣’e-, zə-fe- [Ситимова 2004: 107] 
+* Temirgoi  č̣’e- [Ситимова 2004: 107] 
+* Abzakh  zə-č̣’e- [Ситимова 2004: 107] 
 

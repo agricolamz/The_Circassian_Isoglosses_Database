@@ -1,4 +1,4 @@
-## 47. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/47.html'>выражение темпорального таксиса "после того"</a>
+## 47. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/47.html'>конверб на -ejəŝ</a>
 ### Description
 
 
@@ -6,9 +6,5 @@
 ### Values
 There are the following value for each idiom:
 
-* Shapsug  aš' (qə)newžəm [Керашева 1957: 246] 
-* SWC  aš' newž [Ситимова 2004: 112] 
-* SWC  aš' əwžəm [Керашева 1957: 246] 
-* Bzhedug  aš' əwžə [Ситимова 2004: 112] 
-* Shapsug  aš' əwžə [Ситимова 2004: 112] 
+* Bzhedug  да [Ситимова 2004: 85-86] (При перечислении последовательно произошедших в прошлом событий, глагол, обозначающий первое из них, оформляется разными суффиксами.)
 

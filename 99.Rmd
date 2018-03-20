@@ -1,19 +1,11 @@
-## 99. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/99.html'>показатель будущего времени</a>
+## 99. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/99.html'>образование отрицательных местоимений</a>
 ### Description
 
-Показатель будущего времени может выглядеть как -š't или -t в разных диалектах.
+Отрицательные местоимения образуются сложением числительного "один" и местоименных основ с аддитивными союзами [Керашева 1957: 277].
 
 ### Values
 There are the following value for each idiom:
 
-* SWC  -š't [Кумахова 1972: 79] 
-* Abzakh  -š't, -t [Кумахова 1972: 79] (Два показателя совпадают по значению.)
-* Bzhedug  -š't, -t [Кумахова 1972: 79] (Два показателя совпадают по значению.)
-* Abzakh  -š't, -t [Ситимова 2004: 93] 
-* Bzhedug  -š't, -t [Ситимова 2004: 93] 
-* Shapsug  -št [Ситимова 2004: 93] 
-* Temirgoi  -š't [Ситимова 2004: 93] 
-* NA (Dzherokaj) -š't, -t [Ситимова 2004: 93] 
-* NA (Khachemzij) -š't, -t [Ситимова 2004: 93] 
-* SWC  -š't [Ситимова 2004: 93] 
+* Shapsug  pronoun + -икIь ADD [Керашева 1957: 277] 
+* SWC  pronoun + -и ADD [Керашева 1957: 277] 
 

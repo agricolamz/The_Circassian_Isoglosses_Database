@@ -1,4 +1,4 @@
-## 112. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/112.html'>преверб p- "навстречу"</a>
+## 112. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/112.html'>показатель адвербиалиса</a>
 ### Description
 
 
@@ -6,5 +6,6 @@
 ### Values
 There are the following value for each idiom:
 
-* SWC  менее продуктивный [Керашева 1957: 257] 
+* Kabardian  -(PL)-ra-we [Кумахов 2013: 65--66] 
+* SWC  -(PL)-we [Рогава, Керашева 1966: 62] 
 

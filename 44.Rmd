@@ -1,10 +1,10 @@
-## 44. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/44.html'>выпадение -r- перед абсолютивом</a>
+## 44. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/44.html'>квантификатор всеобщности pstewə(rjə)</a>
 ### Description
 
-В бжедугском может выпадать согласный /r/ суффикса динамичности перед абсолютивом.
+
 
 ### Values
 There are the following value for each idiom:
 
-* Bzhedug  -re(r) / -er [Ситимова 2004: 106] (При этом в вариантах словоформ, где /r/ не выпадает взят в скобки согласный /r/ абсолютива: txere(r) / txeer "пишущий")
+* Bzhedug  нет [Ситимова 2004: 82] (В бжедугском диалекте почти не встречается.)
 

@@ -1,11 +1,11 @@
-## 27. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/27.html'>автономные притяжательные местоимения</a>
+## 27. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/27.html'>звательное междометие</a>
 ### Description
 
-
+Приведены междометия, используемые для обращения.
 
 ### Values
 There are the following value for each idiom:
 
-* Shapsug  sesəj/səje [Керашева 1957: 252-253] (На примере 1sg)
-* SWC  sesəj [Керашева 1957: 252-253] (На примере 1sg)
+* Shapsug  Жьэу [Керашева 1957: 278] 
+* Bzhedug  эй, зэ! ей! эй-эй! [Ситимова 2004: 118] 
 

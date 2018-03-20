@@ -1,0 +1,12 @@
+## 177. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/177.html'>эргатив плюралиса на -š' или -j указательных местоимений</a>
+### Description
+
+
+
+### Values
+There are the following value for each idiom:
+
+* Shapsug  нет [Керашева 1957: 250-252] (Про шапсугский это не упомянуто, из чего сделан вывод о значении изоглоссы)
+* Bzhedug  да [Ситимова 2004: 77-78] 
+* Temirgoi  да [Тхаркахо 1993: 93] 
+

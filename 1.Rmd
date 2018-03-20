@@ -1,10 +1,11 @@
-## 1. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/1.html'>2pl pronoun + 2sg index</a>
+## 1. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/1.html'>автономные притяжательные местоимения</a>
 ### Description
 
-
+Отмечены различия в образовании притяжательных местоимений. В литературном адыгейском к местоименному корню прибавляется его же согласный, и к нему прибавляется -əj: sesəj, wewəj и т.д. В шапсугском, кроме этого существуют формы без удвоения корня. Значения изоглоссы приведены на примере местоимения первого лица единственного числа
 
 ### Values
 There are the following value for each idiom:
 
-* Shapsug  да [Керашева 1957: 259-260] 
+* Shapsug  sesəj, səje [Керашева 1957: 252-253] 
+* SWC  sesəj [Керашева 1957: 252-253] 
 

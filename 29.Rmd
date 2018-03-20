@@ -1,4 +1,4 @@
-## 29. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/29.html'>аналитический аддитив</a>
+## 29. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/29.html'>звукоподражание: волк</a>
 ### Description
 
 
@@ -6,8 +6,5 @@
 ### Values
 There are the following value for each idiom:
 
-* Bzhedug  əǯjə [Тхаркахо 1993: 96] 
-* Bzhedug  əǯjə [Ситимова 2004: 117] 
-* SWC  əč̣’jə [Ситимова 2004: 117] 
-* Temirgoi  əč̣’jə [Тхаркахо 1993: 96] 
+* Shapsug  ʁətχ [Керашева 1957: 278] 
 

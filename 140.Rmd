@@ -1,11 +1,11 @@
-## 140. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/140.html'>сожаление</a>
+## 140. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/140.html'>превербы λə-, x-</a>
 ### Description
 
-
+λə- в шапсугском иногда заменяет x- и že-
 
 ### Values
 There are the following value for each idiom:
 
-* Shapsug  Гущэ [Керашева 1957: 278] (Юра говорит, что у бжедугов это был суффикс)
-* Bzhedug  Аэнасын! о-уииу-уиу! е о-ой! е-ей, зэ! а шъыу! [Ситимова 2004: 118-119] 
+* Shapsug  λə-, x-, že- [Керашева 1957: 257] (предположительно, значение типа ALL)
+* SWC  x-, že- [Керашева 1957: 257] (предположительно, значение типа ALL)
 

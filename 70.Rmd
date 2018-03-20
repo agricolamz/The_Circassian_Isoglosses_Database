@@ -1,4 +1,4 @@
-## 70. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/70.html'>местоимение ǯa-r "тот"</a>
+## 70. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/70.html'>конверб на -ze-ʁʷe</a>
 ### Description
 
 
@@ -6,5 +6,6 @@
 ### Values
 There are the following value for each idiom:
 
-* Shapsug  да [Керашева 1957: 252] (Написано, что склоняется так же, как другие, но значение не описано)
+* Bzhedug  да [Ситимова 2004: 108] 
+* Shapsug  да [Керашева 1957: 271-272] 
 

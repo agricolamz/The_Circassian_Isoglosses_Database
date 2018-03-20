@@ -1,12 +1,11 @@
-## 36. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/36.html'>вместо вопросительного -ra в бжедугском иногда появляется -aa</a>
+## 36. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/36.html'>значение "вверх"</a>
 ### Description
 
-Сочетание -re- DYN и -a Q
+Значение "вверх" выражается в глаголе сочетанием преверба и суффикса.
 
 ### Values
 There are the following value for each idiom:
 
-* Abzakh  -ra [Ситимова 2004: 97-98] 
-* Bzhedug  -aa [Ситимова 2004: 97-98] 
-* Temirgoi  -ra [Ситимова 2004: 97-98] 
+* SWC  преверб d- + суффикс -j [Керашева 1957: 255-256] 
+* Shapsug  преверб č̣’e- + корневой ə [Керашева 1957: 256] (Под корневым -ə- имеется в виду, что если глагол имеет в корне -e-, то он переходит в -ə-.)
 

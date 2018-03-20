@@ -1,0 +1,11 @@
+## 157. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/157.html'>сослагательное наклонение</a>
+### Description
+
+Cослагательное наклонение может выражаться с помощью имперфекта (морфологизованный вспомогательный глагол и показатель претерита) или сочетанием показателей будущего времени и претерита.
+
+### Values
+There are the following value for each idiom:
+
+* Temirgoi  -IRR-PST [Тхаркахо 1993: 81] 
+* SWC  -AUX-PST-PST [Тхаркахо 1993: 81] 
+

@@ -1,0 +1,12 @@
+## 163. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/163.html'>ударение в слове с вопросительным -a</a>
+### Description
+
+
+
+### Values
+There are the following value for each idiom:
+
+* Bzhedug  на последнем слоге, силовое [Ситимова 2004: 97] 
+* Shapsug  на последнем слоге, силовое [Ситимова 2004: 97] 
+* Temirgoi  на предпоследнем слоге, длительное [Ситимова 2004: 97] 
+

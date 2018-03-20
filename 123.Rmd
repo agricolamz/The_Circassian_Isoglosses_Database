@@ -1,11 +1,13 @@
-## 123. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/123.html'>превербы λə-, x-</a>
+## 123. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/123.html'>послелог "сверху"</a>
 ### Description
 
-λə- в шапсугском иногда заменяет x- и že-
+
 
 ### Values
 There are the following value for each idiom:
 
-* Shapsug  λə-, x-, že- [Керашева 1957: 257] (предположительно, значение типа ALL)
-* SWC  x-, že- [Керашева 1957: 257] (предположительно, значение типа ALL)
+* SWC  кIыIу [Ситимова 2004: 111-112] 
+* Shapsug  кIыIу [Ситимова 2004: 111-112] 
+* Temirgoi  кIыIу [Ситимова 2004: 111-112] 
+* Bzhedug  чыIу [Ситимова 2004: 111-112] 
 

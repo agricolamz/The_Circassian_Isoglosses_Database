@@ -1,11 +1,11 @@
-## 103. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/103.html'>послелог "вместо"</a>
+## 103. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/103.html'>обстоятельство условия</a>
 ### Description
 
-
+Обстоятельство условия, выраженное глагольной словоформой в шапсугском оформляется с помощью релятивного префикса z- и показателя обликвуса -m.
 
 ### Values
 There are the following value for each idiom:
 
-* Shapsug  и-пэгъуэк1ьэу / и-пэгъуэч1гьэ, и-блэкIь(эу) [Керашева 1957: 246] (Послелог и-блэкIь(эу) употребляется редко.)
-* SWC  ы-чIъыпIэ(чIэ) [Керашева 1957: 246] (В нескольких примерах используется бенефактивный послелог.)
+* Shapsug  z- — -m [Керашева 1957: 270] 
+* SWC  z- — -č̣’ (реже z- — -m) [Керашева 1957: 270] 
 

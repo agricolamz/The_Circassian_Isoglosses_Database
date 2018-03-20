@@ -1,11 +1,11 @@
-## 131. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/131.html'>релятивизация места без преверба</a>
+## 131. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/131.html'>преверб зэIэ-/зэIы-</a>
 ### Description
 
-В шапсугском релятивизация места не бывает без пространственного преверба.
+Бжедугскому зэхэ- в некоторых случает соответствует в темиргоевском зыхэ-
 
 ### Values
 There are the following value for each idiom:
 
-* Shapsug  нет NA 
-* SWC  да NA 
+* Temirgoi  зэIы- [Тхаркахо 1993: 79-80] (пример: глагол 'убрать (помещение)', 'свежевать (убитое животное)')
+* Bzhedug  зэIэ-, зэIы- [Тхаркахо 1993: 79-80] (пример: глагол 'убрать (помещение)', 'свежевать (убитое животное)')
 

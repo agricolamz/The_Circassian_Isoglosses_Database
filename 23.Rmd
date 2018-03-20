@@ -1,10 +1,14 @@
-## 23. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/23.html'>wədre 'тот'</a>
+## 23. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/23.html'>выражение темпорального таксиса "после того"</a>
 ### Description
 
-Помимо самого местоимения wə есть еще wədre. Пока не понимаю, есть ли и от других демонстративов и в других диалектах
+
 
 ### Values
 There are the following value for each idiom:
 
-* Shapsug  да [Керашева 1957: 251] 
+* Shapsug  aš' (qə)newžəm [Керашева 1957: 246] 
+* SWC  aš' newž [Ситимова 2004: 112] 
+* SWC  aš' əwžəm [Керашева 1957: 246] 
+* Bzhedug  aš' əwžə [Ситимова 2004: 112] 
+* Shapsug  aš' əwžə [Ситимова 2004: 112] 
 

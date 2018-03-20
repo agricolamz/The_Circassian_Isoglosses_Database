@@ -1,11 +1,19 @@
-## 113. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/113.html'>преверб rə-/rjə-</a>
+## 113. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/113.html'>показатель будущего времени</a>
 ### Description
 
-Данный преверб выглядит по-разному в темиргоевском и в бжедугском. В бжедугском присутствует в некоторых глаголах, в которых отсутствует в темиргоевском.
+Показатель будущего времени может выглядеть как -š't или -t в разных диалектах.
 
 ### Values
 There are the following value for each idiom:
 
-* Bzhedug  rə- [Тхаркахо 1993: 78] 
-* Temirgoi  rjə- [Тхаркахо 1993: 78] 
+* SWC  -š't [Кумахова 1972: 79] 
+* Abzakh  -š't, -t [Кумахова 1972: 79] (Два показателя совпадают по значению.)
+* Bzhedug  -š't, -t [Кумахова 1972: 79] (Два показателя совпадают по значению.)
+* Abzakh  -š't, -t [Ситимова 2004: 93] 
+* Bzhedug  -š't, -t [Ситимова 2004: 93] 
+* Shapsug  -št [Ситимова 2004: 93] 
+* Temirgoi  -š't [Ситимова 2004: 93] 
+* NA (Dzherokaj) -š't, -t [Ситимова 2004: 93] 
+* NA (Khachemzij) -š't, -t [Ситимова 2004: 93] 
+* SWC  -š't [Ситимова 2004: 93] 
 

@@ -1,4 +1,4 @@
-## 14. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/14.html'>final vowel in imperatives</a>
+## 14. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/14.html'>вопросительное слово "что?"</a>
 ### Description
 
 
@@ -6,6 +6,9 @@
 ### Values
 There are the following value for each idiom:
 
-* Shapsug  да [Керашева 1957: 268] 
-* SWC  нет [Керашева 1957: 268] 
+* Shapsug  ŝəd [Керашева 1957: 255] 
+* SWC  səd / da [Керашева 1957: 255] 
+* SWC  səd / da [Ситимова 2004: 81] ("<...> восточных диалектов и адыгейского литературного языка")
+* Bzhedug  ŝəd / ŝə [Ситимова 2004: 81] 
+* Temirgoi  sədra / da / səda ade / dade [Ситимова 2004: 81] 
 

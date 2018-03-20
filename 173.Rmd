@@ -1,0 +1,10 @@
+## 173. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/173.html'>шуточные пожелания</a>
+### Description
+
+Приведены шуточные пожелания.
+
+### Values
+There are the following value for each idiom:
+
+* Bzhedug  зиуз к1одын «да чьи болезни исчезнут»; уиуз къэсэхъ «твою болезнь приму»; спсэ зикъурмэн, къурмэн сызфэхъун! «жертва души моей», псым фэдэу уалъэгъу «пусть будешь любима как вода» [Ситимова 2004: 118] 
+

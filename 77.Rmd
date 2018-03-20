@@ -1,10 +1,13 @@
-## 77. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/77.html'>наличие показателя -ze</a>
+## 77. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/77.html'>контрафактивное условие</a>
 ### Description
 
-
+Формы, переводящиеся с помощью русского "если бы", маркируется кондиционалисом -me и сочетением -je-me в бжедугском.
 
 ### Values
 There are the following value for each idiom:
 
-* Shapsug  редко [Керашева 1957: 271] ("Вместо аффикса -зэ выступают более сложные аффиксы, составной частью которых является и -зэ.")
+* Temirgoi  -me [Тхаркахо 1993: 81] 
+* Bzhedug  -je-me [Тхаркахо 1993: 81] 
+* Abzakh  -me [Тхаркахо 1993: 81] 
+* Kabardian  -me [Тхаркахо 1993: 81] 
 

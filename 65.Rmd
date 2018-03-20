@@ -1,11 +1,11 @@
-## 65. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/65.html'>когда?</a>
+## 65. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/65.html'>конверб на -tjə</a>
 ### Description
 
-
+Глагольная словоформа, обозначающая причину, оформляется показатели -tjə. Встречается также и -tjə-rjə
 
 ### Values
 There are the following value for each idiom:
 
-* Bzhedug  ŝədəʁʷ [Ситимова 2004: 81] 
-* SWC  sədəjʁʷ [Ситимова 2004: 81] (В [Ситимова 2004:81] написано "<...> восточных диалектов и адыгейского литературного языка")
+* Bzhedug  -tjə [Ситимова 2004: 92-93] 
+* Temirgoi  -tjə, -tjə-rjə [Ситимова 2004: 92-93] 
 

@@ -1,11 +1,13 @@
-## 102. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/102.html'>порядковое числительное ‘первый’</a>
+## 102. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/102.html'>обстоятельство времени</a>
 ### Description
 
-Порядковое числительное ‘первый’ анализируется как содержащее показатель посессивности в шапсугском, но не содержащим в литературном адыгейском.
+Обстоятельство времени, выраженное глагольной словоформой оформляется с помощью релятивного префикса z- и показателя обликвуса -m
 
 ### Values
 There are the following value for each idiom:
 
-* Shapsug  jəperem [Керашева 1957: 255] 
-* SWC  əperem [Керашева 1957: 255] 
+* Shapsug  INS [Керашева 1957: 245] 
+* Temirgoi  OBL или -re [Керашева 1957: 245] 
+* Shapsug  z- — -m [Керашева 1957: 269] 
+* SWC  z- — -m [Керашева 1957: 269] 
 
