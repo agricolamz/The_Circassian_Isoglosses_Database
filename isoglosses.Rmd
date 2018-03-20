@@ -31,7 +31,11 @@ db %>%
   datatable(escape = FALSE, rownames = FALSE,
             extensions = c('ColReorder', 'Buttons'),
             filter = list(position = 'top', clear = TRUE),
-            options = list(pageLength = 20, dom = 'Btip', autoWidth = TRUE, colReorder = TRUE, buttons = I('colvis')))
+            options = list(pageLength = 20, 
+                           dom = 'Btip', 
+                           autoWidth = TRUE, 
+                           colReorder = TRUE, 
+                           buttons = I('colvis')))
 ```
 
 #### Whole dataset
@@ -73,5 +77,22 @@ sapply(seq_along(db$id), function(i){
   writeLines(text, paste0(db$id[i], ".Rmd"))
   }
 )
+```
+
+```{r, include=FALSE, eval=FALSE}
+# создает график
+library(tidyverse)
+read_tsv("https://raw.githubusercontent.com/agricolamz/The_Circassian_Isoglosses_Database/master/database.csv") %>% 
+  group_by(title) %>% 
+  mutate(impact =  n()) %>%
+  ungroup() %>% 
+  count(impact) %>% 
+  ggplot(aes(impact, n))+
+  geom_line()+
+  geom_point(size = 3)+
+  scale_x_continuous(breaks = 0:12)+
+  theme_bw()+
+  labs(x = "number of rows per isogloss",
+       y = "number of isoglosses")
 ```
 
