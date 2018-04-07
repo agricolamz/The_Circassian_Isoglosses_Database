@@ -1,11 +1,12 @@
-## 119. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/119.html'>послелог "до"</a>
+## 119. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/119.html'>послелог "перед"</a>
 ### Description
 
-Употребляется и в пространственном, и во временном значении
+
 
 ### Values
 There are the following value for each idiom:
 
-* Bzhedug  нее, нэйы, нейы, нэсыфэджэ [Ситимова 2004: 115] (Употребляется и в пространственном, и во временном значении)
-* SWC  нэс, нэсыфэ, нэскIэ [Ситимова 2004: 115] (Употребляется и в пространственном, и во временном значении)
+* Bzhedug  нэIу [Ситимова 2004: 111-112] 
+* Shapsug  гупэ [Ситимова 2004: 111-112] 
+* Temirgoi  гупэ [Ситимова 2004: 111-112] 
 

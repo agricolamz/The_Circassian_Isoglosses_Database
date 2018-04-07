@@ -1,11 +1,13 @@
-## 82. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/82.html'>междометие ответа на зов</a>
+## 82. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/82.html'>междометие удивления</a>
 ### Description
 
-Приведены междометия, используемые для ответа на зов.
+Приведены междометия, используемые для выражения удивления.
 
 ### Values
 There are the following value for each idiom:
 
-* Shapsug  Уй [Керашева 1957: 278] 
-* Bzhedug  Эу [Ситимова 2004: 118] 
+* Khakuch (Khadzhyko) Иу! Их! [Керашева 1957: 278] 
+* Shapsug (Tkhagapsh) Иу! Их! [Керашева 1957: 278] 
+* Shapsug  Яль [Керашева 1957: 278] 
+* Bzhedug  Уаа-уау! Ал! [Керашева 1957: 278] 
 

@@ -1,14 +1,10 @@
-## 14. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/14.html'>вопросительное слово "что?"</a>
+## 14. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/14.html'>выпадение -r- перед абсолютивом</a>
 ### Description
 
-
+В бжедугском может выпадать согласный /r/ суффикса динамичности перед абсолютивом.
 
 ### Values
 There are the following value for each idiom:
 
-* Shapsug  ŝəd [Керашева 1957: 255] 
-* SWC  səd / da [Керашева 1957: 255] 
-* SWC  səd / da [Ситимова 2004: 81] ("<...> восточных диалектов и адыгейского литературного языка")
-* Bzhedug  ŝəd / ŝə [Ситимова 2004: 81] 
-* Temirgoi  sədra / da / səda ade / dade [Ситимова 2004: 81] 
+* Bzhedug  -re(r) / -er [Ситимова 2004: 106] (При этом в вариантах словоформ, где /r/ не выпадает взят в скобки согласный /r/ абсолютива: txere(r) / txeer "пишущий")
 

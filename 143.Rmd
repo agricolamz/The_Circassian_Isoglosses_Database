@@ -1,11 +1,10 @@
-## 143. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/143.html'>предикативная форма местоимений</a>
+## 143. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/143.html'>проклятие "Пусть провалится!"</a>
 ### Description
 
-Предикативная форма образуется суффиксом -rə, который может присоединяться к корню, а может к основе на -r
+Приведено одно проклятие
 
 ### Values
 There are the following value for each idiom:
 
-* Bzhedug  -ra-rə [Тхаркахо 1993: 93] 
-* Temirgoi  -rə [Тхаркахо 1993: 93] 
+* Bzhedug  тхьам пхырегъэз [Ситимова 2004: 118] (более присуще женщинам)
 

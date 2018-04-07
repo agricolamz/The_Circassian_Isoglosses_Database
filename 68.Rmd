@@ -1,4 +1,4 @@
-## 68. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/68.html'>конверб на -ze</a>
+## 68. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/68.html'>конверб на -z-jə</a>
 ### Description
 
 
@@ -6,10 +6,5 @@
 ### Values
 There are the following value for each idiom:
 
-* Abzakh  да [Кумахова 1972: 81] 
-* Abzakh  да [Ситимова 2004: 108] 
-* Bzhedug  да [Ситимова 2004: 108] 
-* SWC  да [Кумахова 1972: 81] 
-* Temirgoi  да [Ситимова 2004: 108] 
-* Shapsug  редко [Керашева 1957: 271] ("Вместо аффикса -зэ выступают более сложные аффиксы, составной частью которых является и -зэ.")
+* Abzakh  да [Ситимова 2004: 85-86] (При перечислении последовательно произошедших в прошлом событий, глагол, обозначающий первое из них, оформляется разными суффиксами.)
 

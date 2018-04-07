@@ -1,11 +1,10 @@
-## 138. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/138.html'>преверб "через"</a>
+## 138. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/138.html'>превосходная степень</a>
 ### Description
 
-gʷ- в шапсугском иногда заменяет ḳawc̣ə-
+Говорится о конеструкции, в которой выделяется подмножество по какому-то признаку (например, 'самые лучше овцы')
 
 ### Values
 There are the following value for each idiom:
 
-* Shapsug  gʷ-, ḳawc̣ə- [Керашева 1957: 257] 
-* SWC  ḳawc̣ə- [Керашева 1957: 257] 
+* Shapsug  poss-прилагательное [Керашева 1957: 249] 
 

@@ -1,12 +1,11 @@
-## 9. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/9.html'>вместо вопросительного -ra в бжедугском иногда появляется -aa</a>
+## 9. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/9.html'>вопросительное слово "когда?"</a>
 ### Description
 
-Сочетание -re- DYN и -a Q
+В изоглоссе приводится вопросительное слово "когда?" в соотвествующем идиоме.
 
 ### Values
 There are the following value for each idiom:
 
-* Abzakh  -ra [Ситимова 2004: 97-98] 
-* Bzhedug  -aa [Ситимова 2004: 97-98] 
-* Temirgoi  -ra [Ситимова 2004: 97-98] 
+* Bzhedug  ŝədəʁʷ [Ситимова 2004: 81] 
+* SWC  sədəjʁʷ [Ситимова 2004: 81] (Написано "<...> восточных диалектов и адыгейского литературного языка", но точно не ясно, что имеется в виду под восточными диалектами.)
 

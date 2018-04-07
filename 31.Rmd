@@ -1,4 +1,4 @@
-## 31. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/31.html'>звукоподражание: медведь</a>
+## 31. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/31.html'>звукоподражание: стук</a>
 ### Description
 
 
@@ -6,5 +6,5 @@
 ### Values
 There are the following value for each idiom:
 
-* Shapsug  pəχ-č'ərχ [Керашева 1957: 278] 
+* Shapsug  caw, ṭərqʷ-š'ərqʷ [Керашева 1957: 278] 
 

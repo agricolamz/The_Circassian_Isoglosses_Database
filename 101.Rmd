@@ -1,10 +1,11 @@
-## 101. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/101.html'>обращения</a>
+## 101. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/101.html'>особая сравнительная форма</a>
 ### Description
 
-Приведены формулы обращения к людям
+Суффикс -Iу (но в примерах -Iуэ) в лит. адыг. "указывает на то, что данного качества в предмете немного больше, чем необходимо" [Керашева 1957: 249]. Такую форму может сопровождать слово нахь — в этом случае, в бжедугском вместо -Iу может использоваться бенефактив.
 
 ### Values
 There are the following value for each idiom:
 
-* Bzhedug  А нау! А кIал! А тIэхъу! [Ситимова 2004: 119] 
+* Shapsug  nah BEN-прилагательное [Керашева 1957: 249] 
+* SWC  nah прилагательное-ʔʷe [Керашева 1957: 249] 
 

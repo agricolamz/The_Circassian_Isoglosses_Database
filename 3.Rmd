@@ -1,10 +1,13 @@
-## 3. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/3.html'>аддитивная форма местоимения</a>
+## 3. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/3.html'>аналитический аддитив</a>
 ### Description
 
-Аддитивный показатель может присоединяться к основе на -r.
+В изоглоссе приведены аналитические показатели аддитива.
 
 ### Values
 There are the following value for each idiom:
 
-* Bzhedug  -jə / -r-jə [Ситимова 2004: 76] (Приведенные формы в источнике не анализируются как аддитивные.)
+* Bzhedug  əǯjə [Тхаркахо 1993: 96] 
+* Bzhedug  əǯjə [Ситимова 2004: 117] 
+* SWC  əč̣’jə [Ситимова 2004: 117] 
+* Temirgoi  əč̣’jə [Тхаркахо 1993: 96] 
 

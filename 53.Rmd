@@ -1,11 +1,10 @@
-## 53. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/53.html'>конверб на -gʷe-ze-ʁʷe</a>
+## 53. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/53.html'>конверб на -jeje</a>
 ### Description
 
-
+При сочинении двух императивов, первый из них оформляется разными суффиксами
 
 ### Values
 There are the following value for each idiom:
 
-* Shapsug  да [Керашева 1957: 271-272] 
-* Bzhedug  да [Керашева 1957: 270] 
+* Bzhedug  да [Ситимова 2004: 87] (сочинение императивов)
 

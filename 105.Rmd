@@ -1,11 +1,11 @@
-## 105. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/105.html'>отрицательное местоимение "ничего"</a>
+## 105. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/105.html'>падежный маркер на обладаемом</a>
 ### Description
 
-
+В адыгейском падежные показатели не присоединяются к обладаемым именам в единственном числе и не являющимся при этом посессорами. В кабардинском языке обладаемые имена присоединяют падежные показатели.
 
 ### Values
 There are the following value for each idiom:
 
-* Bzhedug  zəce / zəcəqe / zəpʰa(r)jə [Ситимова 2004: 83-84] 
-* Temirgoi  zəcjə / zəcəqjə / parjə / c̣əwnṭe [Ситимова 2004: 83-84] 
+* Kabardian  да [Кумахов 2013: 74] 
+* SWC  нет [Рогава, Керашева 1966: 70] 
 

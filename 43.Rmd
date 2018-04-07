@@ -1,10 +1,11 @@
-## 43. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/43.html'>использование индекса 2sg вместо 2pl</a>
+## 43. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/43.html'>квантификатор всеобщности zewəž/zewəž'ə</a>
 ### Description
 
-При некоторых глаголах в шапсугском возможно использование индекса второго лица единственного числа вместо множественного.
+
 
 ### Values
 There are the following value for each idiom:
 
-* Shapsug  да [Керашева 1957: 259-260] 
+* Shapsug  zewəž'ə [Керашева 1957: 254] (Имеет форму множественного числа zewəž'əxer.)
+* SWC  zewəž [Керашева 1957: 254] 
 

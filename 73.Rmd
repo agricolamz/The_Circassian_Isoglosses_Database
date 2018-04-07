@@ -1,12 +1,11 @@
-## 73. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/73.html'>конверб на адвербиалис -ew</a>
+## 73. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/73.html'>конструкция эпистемической возможности</a>
 ### Description
 
-
+Конструкция, выражающая эпистемическую возможность состоит из формы на -MOD-INS-ADD (см. пред. глоссу) и частицы χun в бжедугском и meχun в темиргоевском. В темиргоевском примере -n MOD блокирует чередование (что согласуется с тем, что написано об эпистемической конструкции с faje), а в бжедугском — нет.
 
 ### Values
 There are the following value for each idiom:
 
-* Abzakh  да [Ситимова 2004: 108] 
-* Bzhedug  да [Ситимова 2004: 108] 
-* Temirgoi  да [Ситимова 2004: 108] 
+* Bzhedug  χʷən [Ситимова 2004: 95-96] 
+* Temirgoi  meχʷ [Ситимова 2004: 95-96] 
 

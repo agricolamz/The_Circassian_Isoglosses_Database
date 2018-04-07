@@ -1,11 +1,11 @@
-## 103. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/103.html'>обстоятельство условия</a>
+## 103. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/103.html'>отсутствие эргативного префикса в прохибитиве при наличии других префиксов</a>
 ### Description
 
-Обстоятельство условия, выраженное глагольной словоформой в шапсугском оформляется с помощью релятивного префикса z- и показателя обликвуса -m.
+
 
 ### Values
 There are the following value for each idiom:
 
-* Shapsug  z- — -m [Керашева 1957: 270] 
-* SWC  z- — -č̣’ (реже z- — -m) [Керашева 1957: 270] 
+* Shapsug  нет [Керашева 1957: 261-262] 
+* SWC  да [Керашева 1957: 261-262] (и в "абсолютивах", то есть конвербах)
 

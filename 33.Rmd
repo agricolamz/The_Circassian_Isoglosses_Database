@@ -1,10 +1,11 @@
-## 33. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/33.html'>звукоподражание: свинья</a>
+## 33. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/33.html'>значение "вверх"</a>
 ### Description
 
-
+Значение "вверх" выражается в глаголе сочетанием преверба и суффикса.
 
 ### Values
 There are the following value for each idiom:
 
-* Shapsug  warχ [Керашева 1957: 278] 
+* SWC  преверб d- + суффикс -j [Керашева 1957: 255-256] 
+* Shapsug  преверб č̣’e- + корневой ə [Керашева 1957: 256] (Под корневым -ə- имеется в виду, что если глагол имеет в корне -e-, то он переходит в -ə-.)
 

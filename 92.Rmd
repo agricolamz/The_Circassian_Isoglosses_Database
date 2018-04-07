@@ -1,4 +1,4 @@
-## 92. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/92.html'>наречие "здесь"</a>
+## 92. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/92.html'>наречие "теперь"</a>
 ### Description
 
 
@@ -6,7 +6,6 @@
 ### Values
 There are the following value for each idiom:
 
-* Bzhedug  модж [Ситимова 2004: 109] 
-* SWC  мыщ [Ситимова 2004: 109] 
-* Temirgoi  мыкIи [Ситимова 2004: 109] 
+* Bzhedug  ыдж [Ситимова 2004: 109] 
+* SWC  джы [Ситимова 2004: 109] 
 

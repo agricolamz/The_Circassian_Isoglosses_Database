@@ -1,10 +1,12 @@
-## 34. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/34.html'>звукоподражание: стук</a>
+## 34. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/34.html'>значение "наперегонки"</a>
 ### Description
 
-
+Значение "наперегонки" может выражаться морфологически в префиксальной зоне сказуемого
 
 ### Values
 There are the following value for each idiom:
 
-* Shapsug  caw, ṭərqʷ-š'ərqʷ [Керашева 1957: 278] 
+* Kabardian  ze-de- [rec-com-] [Керашева 1957: 264] 
+* Shapsug  ze-fe- [rec-ben-] [Керашева 1957: 264] 
+* SWC  преверб п- [Керашева 1957: 264] 
 

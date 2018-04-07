@@ -1,4 +1,4 @@
-## 66. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/66.html'>конверб на -w</a>
+## 66. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/66.html'>конверб на -ze-ʁʷe</a>
 ### Description
 
 
@@ -6,7 +6,6 @@
 ### Values
 There are the following value for each idiom:
 
-* Abzakh  да [Ситимова 2004: 108] 
 * Bzhedug  да [Ситимова 2004: 108] 
-* Temirgoi  да [Ситимова 2004: 108] 
+* Shapsug  да [Керашева 1957: 271-272] 
 

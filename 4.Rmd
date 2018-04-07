@@ -1,13 +1,11 @@
-## 4. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/4.html'>аналитический аддитив</a>
+## 4. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/4.html'>ассимиляция неабсолютивного индекса второго лица единственного числа перед согласным /p/</a>
 ### Description
 
-В изоглоссе приведены аналитические показатели аналитива.
+Неабсолютивный индекс второго лица единственного числа w- обычно перед согласными переходит в p-. Перед согласным /p/ этого может не происходить.
 
 ### Values
 There are the following value for each idiom:
 
-* Bzhedug  əǯjə [Тхаркахо 1993: 96] 
-* Bzhedug  əǯjə [Ситимова 2004: 117] 
-* SWC  əč̣’jə [Ситимова 2004: 117] 
-* Temirgoi  əč̣’jə [Тхаркахо 1993: 96] 
+* Bzhedug  ассимилируется перед /p/ [Тхаркахо 1993: 71] 
+* Temirgoi  не ассимилируется перед /p/ [Тхаркахо 1993: 71] 
 

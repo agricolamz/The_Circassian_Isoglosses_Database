@@ -1,11 +1,11 @@
-## 135. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/135.html'>преверб "преодолевая препятствие"</a>
+## 135. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/135.html'>преверб "через"</a>
 ### Description
 
-В бжедугском и темиргоевском для этого значения используются разные превербы.
+gʷ- в шапсугском иногда заменяет ḳawc̣ə-
 
 ### Values
 There are the following value for each idiom:
 
-* Bzhedug  ŝhapʰərə- [Ситимова 2004: 103] 
-* Temirgoi  ŝhede- [Ситимова 2004: 103] 
+* Shapsug  gʷ-, ḳawc̣ə- [Керашева 1957: 257] 
+* SWC  ḳawc̣ə- [Керашева 1957: 257] 
 

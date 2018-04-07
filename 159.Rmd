@@ -1,4 +1,4 @@
-## 159. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/159.html'>союз "или"</a>
+## 159. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/159.html'>союз "хотя и"</a>
 ### Description
 
 
@@ -6,6 +6,6 @@
 ### Values
 There are the following value for each idiom:
 
-* Bzhedug  hawərjə, hawjə [Ситимова 2004: 117] 
-* SWC  hawəmjə [Ситимова 2004: 117] 
+* Shapsug  neməʔemjə, nah məṣ̂emjə, nəʔe məʔemjə, nah məʔemjə [Керашева 1957: 277] 
+* SWC  neməʔemjə [Керашева 1957: 277] 
 

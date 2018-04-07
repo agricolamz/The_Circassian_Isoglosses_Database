@@ -1,4 +1,4 @@
-## 28. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/28.html'>звательные формы</a>
+## 28. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/28.html'>звукоподражание: медведь</a>
 ### Description
 
 
@@ -6,7 +6,5 @@
 ### Values
 There are the following value for each idiom:
 
-* Kabardian  препозитивная частица e [Керашева 1957: 276] 
-* Shapsug  удлиняется конечный гласный основы, а к основам на согл добавл -а [Керашева 1957: 276] 
-* SWC  препозитивная частица e [Керашева 1957: 276] 
+* Shapsug  pəχ-č'ərχ [Керашева 1957: 278] 
 

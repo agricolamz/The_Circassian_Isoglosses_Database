@@ -1,10 +1,10 @@
-## 87. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/87.html'>местоимение ǯa-r "тот"</a>
+## 87. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/87.html'>мужские междометия</a>
 ### Description
 
-
+Приведены междометия, используемые мужчинами.
 
 ### Values
 There are the following value for each idiom:
 
-* Shapsug  да [Керашева 1957: 252] (Написано, что склоняется так же, как другие, но значение не описано)
+* Bzhedug  Зиунагъо бэгъон, алахьэр сэгъэщ1ы, алахьэм ыц1эджэ тхьэ сэ1о [Ситимова 2004: 118] (Содержат упоминание бога.)
 

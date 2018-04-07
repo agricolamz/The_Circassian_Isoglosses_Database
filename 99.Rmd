@@ -1,11 +1,13 @@
-## 99. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/99.html'>образование отрицательных местоимений</a>
+## 99. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/99.html'>обстоятельство времени</a>
 ### Description
 
-Отрицательные местоимения образуются сложением числительного "один" и местоименных основ с аддитивными союзами [Керашева 1957: 277].
+Обстоятельство времени, выраженное глагольной словоформой оформляется с помощью релятивного префикса z- и показателя обликвуса -m
 
 ### Values
 There are the following value for each idiom:
 
-* Shapsug  pronoun + -икIь ADD [Керашева 1957: 277] 
-* SWC  pronoun + -и ADD [Керашева 1957: 277] 
+* Shapsug  INS [Керашева 1957: 245] 
+* Temirgoi  OBL или -re [Керашева 1957: 245] 
+* Shapsug  z- — -m [Керашева 1957: 269] 
+* SWC  z- — -m [Керашева 1957: 269] 
 

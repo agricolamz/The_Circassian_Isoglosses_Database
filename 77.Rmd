@@ -1,13 +1,16 @@
-## 77. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/77.html'>контрафактивное условие</a>
+## 77. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/77.html'>медиальное местоимение</a>
 ### Description
 
-Формы, переводящиеся с помощью русского "если бы", маркируется кондиционалисом -me и сочетением -je-me в бжедугском.
+Существуют разные корни медиальных демонстративов.
 
 ### Values
 There are the following value for each idiom:
 
-* Temirgoi  -me [Тхаркахо 1993: 81] 
-* Bzhedug  -je-me [Тхаркахо 1993: 81] 
-* Abzakh  -me [Тхаркахо 1993: 81] 
-* Kabardian  -me [Тхаркахо 1993: 81] 
+* Kabardian  mwe- [Керашева 1957: 250] 
+* Shapsug  wə- [Керашева 1957: 250] 
+* SWC  mwe- [Керашева 1957: 250] 
+* Bzhedug  ɣʷe- [Ситимова 2004: 78-79] 
+* Abzakh  mwe- [Тхаркахо 1993: 93] 
+* Temirgoi  mwe- [Тхаркахо 1993: 93] 
+* Bzhedug  wə- [Тхаркахо 1993: 93] 
 

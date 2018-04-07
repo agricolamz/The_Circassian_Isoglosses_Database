@@ -1,10 +1,10 @@
-## 98. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/98.html'>непонятные местоимения</a>
+## 98. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/98.html'>обращения</a>
 ### Description
 
-корт-ер столько-abs, инагъ - величина
+Приведены формулы обращения к людям
 
 ### Values
 There are the following value for each idiom:
 
-* Shapsug  kʷerter "сколько", dexer "они", naʁ "столько" [Керашева 1957: 254-255] (Из примеров видно, что переводы очень условные)
+* Bzhedug  А нау! А кIал! А тIэхъу! [Ситимова 2004: 119] 
 

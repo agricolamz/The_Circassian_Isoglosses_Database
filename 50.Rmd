@@ -1,4 +1,4 @@
-## 50. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/50.html'>конверб на -gʷe-re(-m)-gʲe</a>
+## 50. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/50.html'>конверб на -gʷe-ze-ʁʷe</a>
 ### Description
 
 
@@ -7,4 +7,5 @@
 There are the following value for each idiom:
 
 * Shapsug  да [Керашева 1957: 271-272] 
+* Bzhedug  да [Керашева 1957: 270] 
 

@@ -1,4 +1,4 @@
-## 63. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/63.html'>конверб на -ŝə-r-jə</a>
+## 63. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/63.html'>конверб на -we</a>
 ### Description
 
 
@@ -6,5 +6,6 @@
 ### Values
 There are the following value for each idiom:
 
-* Temirgoi  да [Ситимова 2004: 85-86] (Редко. При перечислении последовательно произошедших в прошлом событий, глагол, обозначающий первое из них, оформляется разными суффиксами.)
+* Abzakh  да [Кумахова 1972: 81] 
+* SWC  да [Кумахова 1972: 81] 
 

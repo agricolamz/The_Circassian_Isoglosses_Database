@@ -1,11 +1,11 @@
-## 126. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/126.html'>преверб č̣’e-λə- "следом за"</a>
+## 126. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/126.html'>преверб "в сторону"</a>
 ### Description
 
-В бжедугском некоторые глаголы теряют компонент č̣’e- преверба č̣’e-λə- "следом за".
+"В бжедугском более употребителен сложный преверб..."
 
 ### Values
 There are the following value for each idiom:
 
-* Bzhedug  č̣’e-λə-, λə- [Ситимова 2004: 102] 
-* Temirgoi  č̣’e-λə- [Ситимова 2004: 102] 
+* Bzhedug  dere [Ситимова 2004: 104] 
+* Temirgoi  de [Ситимова 2004: 104] 
 

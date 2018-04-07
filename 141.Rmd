@@ -1,10 +1,11 @@
-## 141. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/141.html'>превосходная степень</a>
+## 141. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/141.html'>префикс порядковых</a>
 ### Description
 
-Говорится о конеструкции, в которой выделяется подмножество по какому-то признаку (например, 'самые лучше овцы')
+
 
 ### Values
 There are the following value for each idiom:
 
-* Shapsug  poss-прилагательное [Керашева 1957: 249] 
+* Shapsug  jə- [Керашева 1957: 255] (тут похоже просто орфографическое различие)
+* SWC  əj- [Керашева 1957: 255] (тут похоже просто орфографическое различие)
 

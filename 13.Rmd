@@ -1,10 +1,11 @@
-## 13. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/13.html'>вопросительное слово "сколько?"</a>
+## 13. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/13.html'>вопросительный маркер -a</a>
 ### Description
 
-
+Вопросительный маркер -a может отсутствовать.
 
 ### Values
 There are the following value for each idiom:
 
-* SWC  səd fedəjz [Ситимова 2004: 81] (В [Ситимова 2004:81] написано "<...> восточных диалектов и адыгейского литературного языка")
+* Shapsug  факультативен [Керашева 1957: 275-276] (приведены примеры только с вопросительным словом in situ)
+* SWC  обязателен [Керашева 1957: 275-276] 
 

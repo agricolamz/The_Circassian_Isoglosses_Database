@@ -1,13 +1,11 @@
-## 123. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/123.html'>послелог "сверху"</a>
+## 123. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/123.html'>преверб č̣’e-λə- "следом за"</a>
 ### Description
 
-
+В бжедугском некоторые глаголы теряют компонент č̣’e- преверба č̣’e-λə- "следом за".
 
 ### Values
 There are the following value for each idiom:
 
-* SWC  кIыIу [Ситимова 2004: 111-112] 
-* Shapsug  кIыIу [Ситимова 2004: 111-112] 
-* Temirgoi  кIыIу [Ситимова 2004: 111-112] 
-* Bzhedug  чыIу [Ситимова 2004: 111-112] 
+* Bzhedug  č̣’e-λə-, λə- [Ситимова 2004: 102] 
+* Temirgoi  č̣’e-λə- [Ситимова 2004: 102] 
 

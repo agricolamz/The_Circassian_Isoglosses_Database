@@ -1,12 +1,10 @@
-## 40. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/40.html'>индекс 3sg.erg</a>
+## 40. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/40.html'>использование индекса 2sg вместо 2pl</a>
 ### Description
 
-В значениях изоглоссы собраны отмеченные особенности реализации эргативного префикса третьего лица единственного числа
+При некоторых глаголах в шапсугском возможно использование индекса второго лица единственного числа вместо множественного.
 
 ### Values
 There are the following value for each idiom:
 
-* Kabardian  jə- в прошедшем [Керашева 1957: 258-259] 
-* Shapsug  jə- после директива [Керашева 1957: 258-259] 
-* SWC  ə- в прошедшем и будущем [Керашева 1957: 258-259] 
+* Shapsug  да [Керашева 1957: 259-260] 
 

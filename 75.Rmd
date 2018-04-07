@@ -1,11 +1,17 @@
-## 75. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/75.html'>конечный гласный в императиве</a>
+## 75. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/75.html'>косвенная форма личных местоимений</a>
 ### Description
 
-Конечный гласный может отпадать в формах императива.
+
 
 ### Values
 There are the following value for each idiom:
 
-* Shapsug  да [Керашева 1957: 268] 
-* SWC  нет [Керашева 1957: 268] 
+* Temirgoi (Mamkheg) 0 [Зекох 1969: 68] 
+* Shapsug  -š' / -j [Керашева 1957: 249-250] 
+* Abzakh  0 [Зекох 1969: 68] 
+* SWC  0 / -š' [Рогава, Керашева 1966: 84-85] 
+* SWC  0 / -š' [Ситимова 2004: 76-77] 
+* Bzhedug  -j (редко -š') [Ситимова 2004: 76-77] 
+* Temirgoi  -j / 0 (с индексом на послелоге) [Ситимова 2004: 76-77] 
+* Temirgoi  -j / 0 (с индексом на послелоге) [Тхаркахо 1993: 91-92] 
 

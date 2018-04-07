@@ -1,4 +1,4 @@
-## 161. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/161.html'>союз "хотя и"</a>
+## 161. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/161.html'>ударение в слове с вопросительным -a</a>
 ### Description
 
 
@@ -6,6 +6,7 @@
 ### Values
 There are the following value for each idiom:
 
-* Shapsug  neməʔemjə, nah məṣ̂emjə, nəʔe məʔemjə, nah məʔemjə [Керашева 1957: 277] 
-* SWC  neməʔemjə [Керашева 1957: 277] 
+* Bzhedug  на последнем слоге, силовое [Ситимова 2004: 97] 
+* Shapsug  на последнем слоге, силовое [Ситимова 2004: 97] 
+* Temirgoi  на предпоследнем слоге, длительное [Ситимова 2004: 97] 
 

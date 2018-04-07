@@ -1,10 +1,11 @@
-## 72. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/72.html'>конверб на -z-jə</a>
+## 72. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/72.html'>конечный гласный в императиве</a>
 ### Description
 
-
+Конечный гласный может отпадать в формах императива.
 
 ### Values
 There are the following value for each idiom:
 
-* Abzakh  да [Ситимова 2004: 85-86] (При перечислении последовательно произошедших в прошлом событий, глагол, обозначающий первое из них, оформляется разными суффиксами.)
+* Shapsug  да [Керашева 1957: 268] 
+* SWC  нет [Керашева 1957: 268] 
 

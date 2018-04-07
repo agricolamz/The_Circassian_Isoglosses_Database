@@ -1,11 +1,10 @@
-## 11. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/11.html'>вопросительное слово "когда?"</a>
+## 11. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/11.html'>вопросительное слово "сколько?"</a>
 ### Description
 
-
+В изоглоссе приводится вопросительное слово "сколько?" в соотвествующем идиоме.
 
 ### Values
 There are the following value for each idiom:
 
-* Bzhedug  ŝədəʁʷ [Ситимова 2004: 81] 
-* SWC  sədəjʁʷ [Ситимова 2004: 81] (В [Ситимова 2004:81] написано "<...> восточных диалектов и адыгейского литературного языка")
+* SWC  səd fedəjz [Ситимова 2004: 81] (Написано "<...> восточных диалектов и адыгейского литературного языка", но точно не ясно, что имеется в виду под восточными диалектами.)
 

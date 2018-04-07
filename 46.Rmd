@@ -1,4 +1,4 @@
-## 46. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/46.html'>квантификатор всеобщности zewəž/zewəž'ə</a>
+## 46. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/46.html'>конверб на -gʷe-re</a>
 ### Description
 
 
@@ -6,6 +6,6 @@
 ### Values
 There are the following value for each idiom:
 
-* Shapsug  zewəž'ə [Керашева 1957: 254] (Имеет форму множественного числа zewəž'əxer.)
-* SWC  zewəž [Керашева 1957: 254] 
+* Abzakh  да [Кумахова 1972: 81] 
+* Shapsug  да [Керашева 1957: 271-272] 
 

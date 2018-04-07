@@ -1,11 +1,11 @@
-## 140. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/140.html'>превербы λə-, x-</a>
+## 140. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/140.html'>предикативная форма местоимений</a>
 ### Description
 
-λə- в шапсугском иногда заменяет x- и že-
+Предикативная форма образуется суффиксом -rə, который может присоединяться к корню, а может к основе на -r
 
 ### Values
 There are the following value for each idiom:
 
-* Shapsug  λə-, x-, že- [Керашева 1957: 257] (предположительно, значение типа ALL)
-* SWC  x-, že- [Керашева 1957: 257] (предположительно, значение типа ALL)
+* Bzhedug  -ra-rə [Тхаркахо 1993: 93] 
+* Temirgoi  -rə [Тхаркахо 1993: 93] 
 

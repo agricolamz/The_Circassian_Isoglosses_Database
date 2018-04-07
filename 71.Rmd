@@ -1,4 +1,4 @@
-## 71. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/71.html'>конверб на -ze-re</a>
+## 71. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/71.html'>конверб на координатив -re</a>
 ### Description
 
 
@@ -7,5 +7,6 @@
 There are the following value for each idiom:
 
 * Abzakh  да [Кумахова 1972: 81] 
-* SWC  да [Кумахова 1972: 81] 
+* Kabardian  да [Кумахова 1972: 81] 
+* Temirgoi  да [Ситимова 2004: 108] 
 

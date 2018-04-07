@@ -1,10 +1,11 @@
-## 146. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/146.html'>проклятие "Пусть провалится!"</a>
+## 146. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/146.html'>редуплицированная форма</a>
 ### Description
 
-Приведено одно проклятие
+От местоимения-интенсификатора образуется редуплицированная форма, обозначающая "сам по себе"
 
 ### Values
 There are the following value for each idiom:
 
-* Bzhedug  тхьам пхырегъэз [Ситимова 2004: 118] (более присуще женщинам)
+* Bzhedug  jež’-jež’-ew [Ситимова 2004: 81] 
+* SWC  jež’-jež’-ər-ew [Ситимова 2004: 81] 
 

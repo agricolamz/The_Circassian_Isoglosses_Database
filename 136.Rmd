@@ -1,14 +1,11 @@
-## 136. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/136.html'>преверб причины и цели</a>
+## 136. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/136.html'>превербы t-, qʷ-, gʷ-</a>
 ### Description
 
-
+gʷ- в шапсугском иногда заменяет t-, qʷ-
 
 ### Values
 There are the following value for each idiom:
 
-* Kabardian  ṣ̂e- [Керашева 1957: 268] 
-* Shapsug  f- [Керашева 1957: 268] (Написано, что в шапсугском, как и в бжедугском, может использоваться и "нулевая морфема", но не приведено примеров.)
-* SWC  č̣’e- [Керашева 1957: 268] 
-* Temirgoi  č̣’e- [Тхаркахо 1993: 77] 
-* Bzhedug  zə-fe- [REL.IO-BEN-] [Тхаркахо 1993: 77] 
+* Shapsug  gʷ-, t-, qʷ- [Керашева 1957: 257] (предположительно, значение типа APUD)
+* SWC  t-, qʷ- [Керашева 1957: 257] (предположительно, значение типа APUD)
 

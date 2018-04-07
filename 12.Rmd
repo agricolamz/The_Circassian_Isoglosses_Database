@@ -1,11 +1,14 @@
-## 12. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/12.html'>вопросительное слово "почему?"</a>
+## 12. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/12.html'>вопросительное слово "что?"</a>
 ### Description
 
-
+В изоглоссе приводится вопросительное слово "что?" в соотвествующем идиоме.
 
 ### Values
 There are the following value for each idiom:
 
-* Bzhedug  ŝəpʰaj [Ситимова 2004: 81] 
-* SWC  səd paj [Ситимова 2004: 81] (В [Ситимова 2004:81] написано "<...> восточных диалектов и адыгейского литературного языка")
+* Shapsug  ŝəd [Керашева 1957: 255] 
+* SWC  səd / da [Керашева 1957: 255] 
+* SWC  səd / da [Ситимова 2004: 81] ("<...> восточных диалектов и адыгейского литературного языка")
+* Bzhedug  ŝəd / ŝə [Ситимова 2004: 81] 
+* Temirgoi  sədra / da / səda ade / dade [Ситимова 2004: 81] 
 

@@ -1,10 +1,13 @@
-## 156. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/156.html'>собирательная форма числительного</a>
+## 156. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/156.html'>сочетание -re DYN и -a Q</a>
 ### Description
 
-В бжедугском есть префикс aj-/əj-, который присоединяется к числительным 2, 3, 4 и 5, выражая собирательное значение ('все двое', 'все трое' и т.д.).
+В вопросительных формах глагола сочетание суффикса динамичности -re и вопросительного суффикса -a обычно реализуется как -ra, но может и как -aa.
 
 ### Values
 There are the following value for each idiom:
 
-* Bzhedug  aj-/əj- (2, 3, 4, 5) [Ситимова 2004: 74] 
+* Abzakh  -ra [Ситимова 2004: 97-98] 
+* Bzhedug  -aa [Ситимова 2004: 97-98] 
+* Temirgoi  -ra [Ситимова 2004: 97-98] 
+* SWC  -ra [Ситимова 2004: 97-98] 
 

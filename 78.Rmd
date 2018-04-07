@@ -1,17 +1,11 @@
-## 78. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/78.html'>косвенная форма личных местоимений</a>
+## 78. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/78.html'>междометие восторга</a>
 ### Description
 
-
+Приведены междометия, используемые для выражения восторга.
 
 ### Values
 There are the following value for each idiom:
 
-* Shapsug  -š' / -j [Керашева 1957: 249-250] 
-* Abzakh  0 [Зекох 1969: 68] 
-* NA (Mamkheg) 0 [Зекох 1969: 68] 
-* SWC  0 / -š' [Рогава, Керашева 1966: 84-85] 
-* SWC  0 / -š' [Ситимова 2004: 76-77] 
-* Bzhedug  -j (редко -š') [Ситимова 2004: 76-77] 
-* Temirgoi  -j / 0 (с индексом на послелоге) [Ситимова 2004: 76-77] 
-* Temirgoi  -j / 0 (с индексом на послелоге) [Тхаркахо 1993: 91-92] 
+* Bzhedug  Уа [Ситимова 2004: 118] 
+* Shapsug  А пшъышъ [Керашева 1957: 278] (Также может выражать и ужас)
 

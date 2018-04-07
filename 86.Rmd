@@ -1,10 +1,12 @@
-## 86. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/86.html'>местоимение wədre 'тот'</a>
+## 86. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/86.html'>метатеза -re ADD и -me OBL</a>
 ### Description
 
-Помимо самого местоимения wə есть еще wədre. Пока не понимаю, есть ли и от других демонстративов и в других диалектах
+Носители не смогли осознать
 
 ### Values
 There are the following value for each idiom:
 
-* Shapsug  да [Керашева 1957: 251] 
+* Khakuch (Malyi Kichmai) да [Керашева 1957: 276-277] 
+* Shapsug (Pseituk) да [Керашева 1957: 276-277] 
+* SWC  нет [Керашева 1957: 276-277] 
 

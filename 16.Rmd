@@ -1,11 +1,12 @@
-## 16. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/16.html'>вопросительный маркер -a</a>
+## 16. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/16.html'>выпадение индекса 2sg.io перед бенефактивом</a>
 ### Description
 
-Вопросительный маркер -a может отсутствовать.
+
 
 ### Values
 There are the following value for each idiom:
 
-* Shapsug  факультативен [Керашева 1957: 275-276] (приведены примеры только с вопросительным словом in situ)
-* SWC  обязателен [Керашева 1957: 275-276] 
+* Shapsug  да [Керашева 1957: 258] 
+* Shapsug  да [Тхаркахо 1993: 80] 
+* SWC  нет [Тхаркахо 1993: 80] 
 

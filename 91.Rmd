@@ -1,4 +1,4 @@
-## 91. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/91.html'>наличие -а "перфект"</a>
+## 91. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/91.html'>наречие "там"</a>
 ### Description
 
 
@@ -6,8 +6,6 @@
 ### Values
 There are the following value for each idiom:
 
-* Abzakh  да [Кумахова 1972: 80-81] (В абадзехском — "неустойчивая диалектная форма")
-* Kabardian  да (+ копула -š') [Кумахова 1972: 80-81] 
-* Kuban  да [Кумахова 1972: 80-81] 
-* SWC  нет [Кумахова 1972: 80-81] 
+* Temirgoi  мокIэ, модэ [Ситимова 2004: 109] 
+* Bzhedug  ɣодэ, ɣодж, уа одж [Ситимова 2004: 109] 
 

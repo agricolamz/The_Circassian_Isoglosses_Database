@@ -1,10 +1,10 @@
-## 83. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/83.html'>междометие подтверждения</a>
+## 83. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/83.html'>местоимение wədre 'тот'</a>
 ### Description
 
-Приведены междометия, используемые для подтверждения.
+Помимо самого местоимения wə есть еще wədre. Пока не понимаю, есть ли и от других демонстративов и в других диалектах
 
 ### Values
 There are the following value for each idiom:
 
-* Bzhedug  ыɣы [Ситимова 2004: 119] 
+* Shapsug  да [Керашева 1957: 251] 
 

@@ -1,11 +1,11 @@
-## 129. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/129.html'>преверб "в сторону"</a>
+## 129. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/129.html'>преверб зэхэ-/зыхэ-</a>
 ### Description
 
-"В бжедугском более употребителен сложный преверб..."
+Бжедугскому зэхэ- в некоторых случает соответствует в темиргоевском зыхэ-
 
 ### Values
 There are the following value for each idiom:
 
-* Bzhedug  dere [Ситимова 2004: 104] 
-* Temirgoi  de [Ситимова 2004: 104] 
+* Temirgoi  зэхэ-, зыхэ- [Тхаркахо 1993: 79-80] (пример: глагол 'хотеть')
+* Bzhedug  зэхэ- [Тхаркахо 1993: 79-80] (пример: глагол 'хотеть')
 

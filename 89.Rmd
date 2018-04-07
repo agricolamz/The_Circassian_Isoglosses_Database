@@ -1,12 +1,12 @@
-## 89. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/89.html'>метатеза -re ADD и -me OBL</a>
+## 89. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/89.html'>наречие "здесь"</a>
 ### Description
 
-Носители не смогли осознать
+
 
 ### Values
 There are the following value for each idiom:
 
-* NA (Malyi Kichmai) да [Керашева 1957: 276-277] 
-* NA (Pseituk) да [Керашева 1957: 276-277] 
-* SWC  нет [Керашева 1957: 276-277] 
+* Bzhedug  модж [Ситимова 2004: 109] 
+* SWC  мыщ [Ситимова 2004: 109] 
+* Temirgoi  мыкIи [Ситимова 2004: 109] 
 

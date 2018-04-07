@@ -1,10 +1,12 @@
-## 57. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/57.html'>конверб на -jeje</a>
+## 57. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/57.html'>конверб на -ŝ</a>
 ### Description
 
-При сочинении двух императивов, первый из них оформляется разными суффиксами
+Ситуация инфинитного глагола предшествует ситуации финитного, может иметь значение причинности [Керашева 1957: 270].
 
 ### Values
 There are the following value for each idiom:
 
-* Bzhedug  да [Ситимова 2004: 87] (сочинение императивов)
+* Abzakh  нет [Керашева 1957: 270] 
+* Bzhedug  да [Керашева 1957: 270] 
+* SWC  да [Керашева 1957: 270] 
 

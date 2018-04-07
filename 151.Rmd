@@ -1,11 +1,11 @@
-## 151. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/151.html'>релятивизация места без преверба</a>
+## 151. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/151.html'>сентенциальный актант глагола ‘хотеть’</a>
 ### Description
 
-В шапсугском релятивизация места не бывает без пространственного преверба.
+Форма на -n MOD в позиции аргумента при матричном глаголе 'хотеть' оформляется инструменталисом или адвербиалисом.
 
 ### Values
 There are the following value for each idiom:
 
-* Shapsug  нет [Керашева 1957: 269-270] 
-* SWC  да [Керашева 1957: 269-270] 
+* Shapsug  INS [Керашева 1957: 244] 
+* Temirgoi  ADV [Керашева 1957: 244] 
 

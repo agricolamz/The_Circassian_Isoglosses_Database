@@ -1,11 +1,11 @@
-## 132. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/132.html'>преверб зэхэ-/зыхэ-</a>
+## 132. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/132.html'>преверб "преодолевая препятствие"</a>
 ### Description
 
-Бжедугскому зэхэ- в некоторых случает соответствует в темиргоевском зыхэ-
+В бжедугском и темиргоевском для этого значения используются разные превербы.
 
 ### Values
 There are the following value for each idiom:
 
-* Temirgoi  зэхэ-, зыхэ- [Тхаркахо 1993: 79-80] (пример: глагол 'хотеть')
-* Bzhedug  зэхэ- [Тхаркахо 1993: 79-80] (пример: глагол 'хотеть')
+* Bzhedug  ŝhapʰərə- [Ситимова 2004: 103] 
+* Temirgoi  ŝhede- [Ситимова 2004: 103] 
 

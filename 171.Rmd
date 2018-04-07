@@ -1,10 +1,10 @@
-## 171. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/171.html'>формула вежливости "Счастливого пути!"</a>
+## 171. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/171.html'>шуточные пожелания</a>
 ### Description
 
-Приведены различные формулы вежливости
+Приведены шуточные пожелания.
 
 ### Values
 There are the following value for each idiom:
 
-* Bzhedug  гъогумаф [Ситимова 2004: 118] 
+* Bzhedug  зиуз к1одын «да чьи болезни исчезнут»; уиуз къэсэхъ «твою болезнь приму»; спсэ зикъурмэн, къурмэн сызфэхъун! «жертва души моей», псым фэдэу уалъэгъу «пусть будешь любима как вода» [Ситимова 2004: 118] 
 

@@ -1,4 +1,4 @@
-## 41. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/41.html'>инструменталис единственного</a>
+## 41. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/41.html'>квантификатор всеобщности pstewə(rjə)</a>
 ### Description
 
 
@@ -6,5 +6,5 @@
 ### Values
 There are the following value for each idiom:
 
-* Bzhedug  Присоединяется к основе на -š’ [Ситимова 2004: 78] 
+* Bzhedug  нет [Ситимова 2004: 82] (В бжедугском диалекте почти не встречается.)
 

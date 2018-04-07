@@ -1,11 +1,10 @@
-## 95. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/95.html'>наречие "теперь"</a>
+## 95. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/95.html'>непонятные местоимения</a>
 ### Description
 
-
+корт-ер столько-abs, инагъ - величина
 
 ### Values
 There are the following value for each idiom:
 
-* Bzhedug  ыдж [Ситимова 2004: 109] 
-* SWC  джы [Ситимова 2004: 109] 
+* Shapsug  kʷerter "сколько", dexer "они", naʁ "столько" [Керашева 1957: 254-255] (Из примеров видно, что переводы очень условные)
 

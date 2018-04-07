@@ -1,10 +1,10 @@
-## 26. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/26.html'>женские междометия</a>
+## 26. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/26.html'>звукоподражание: волк</a>
 ### Description
 
-Приведены междометия, используемые женщинами.
+
 
 ### Values
 There are the following value for each idiom:
 
-* Bzhedug  адыдыд; а нынэ; ео-ой гущ [Ситимова 2004: 118] 
+* Shapsug  ʁətχ [Керашева 1957: 278] 
 

@@ -1,10 +1,11 @@
-## 90. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/90.html'>мужские междометия</a>
+## 90. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/90.html'>наречие "сейчас"</a>
 ### Description
 
-Приведены междометия, используемые мужчинами.
+
 
 ### Values
 There are the following value for each idiom:
 
-* Bzhedug  Зиунагъо бэгъон, алахьэр сэгъэщ1ы, алахьэм ыц1эджэ тхьэ сэ1о [Ситимова 2004: 118] (Содержат упоминание бога.)
+* SWC  джы дэдэм [Ситимова 2004: 109] 
+* Bzhedug  идэдэм; идэдэ Iуращъэм "сию секунду" [Ситимова 2004: 109] 
 

@@ -1,11 +1,12 @@
-## 150. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/150.html'>релятивизация места REL-de</a>
+## 150. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/150.html'>релятивизация причины</a>
 ### Description
 
-Префикс релятивизации места перед локативным превербом de- выглядит как zə- в бжедугском и как z- в темиргоевском.
+В бжедугском и абадзехском для релятивизации причины используется zə-č̣’e-, а в темиргоевском č̣’e-
 
 ### Values
 There are the following value for each idiom:
 
-* Bzhedug  zə-de- [Ситимова 2004: 106-107] 
-* Temirgoi  z-de- [Ситимова 2004: 106-107] 
+* Bzhedug  zə-č̣’e-, zə-fe- [Ситимова 2004: 107] 
+* Temirgoi  č̣’e- [Ситимова 2004: 107] 
+* Abzakh  zə-č̣’e- [Ситимова 2004: 107] 
 

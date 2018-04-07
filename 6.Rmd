@@ -1,11 +1,13 @@
-## 6. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/6.html'>бенефактивный послелог</a>
+## 6. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/6.html'>вводное слово "всё же"</a>
 ### Description
 
-В изоглоссе приведены бенефактивные послелоги.
+Вводное слово, которое переводится с помощью "всё же", "что бы там ни было" образуется по модели: слово "что" + (-m)-jə. Первый согласный этого вводного слова различается так же, как и первый согласный вопросительного слова "что?". В значениях приведено вводное слово.
 
 ### Values
 There are the following value for each idiom:
 
-* Shapsug  feṣ̂ [Керашева 1957: 245] 
-* SWC  paje [Керашева 1957: 245] 
+* Bzhedug  ŝəd(m)jə [Ситимова 2004: 84] 
+* Shapsug  ŝəd(m)jə [Ситимова 2004: 84] 
+* SWC  səd(m)jə [Ситимова 2004: 84] 
+* Temirgoi  səd(m)jə [Ситимова 2004: 84] 
 
