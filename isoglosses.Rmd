@@ -15,7 +15,7 @@ rmarkdown::render("./tables/table_1.Rmd")
 ### {.tabset .tabset-fade .tabset-pills}
 #### Partial data
 <div class="box">
-  <iframe src="https://agricolamz.github.io/The_Circassian_Isoglosses_Database/table_1.html" width = "700px" height = "700px">
+  <iframe src="https://agricolamz.github.io/The_Circassian_Isoglosses_Database/table_1.html" width = "900px" height = "500px" frameborder="0">
   </iframe>
 </div>
 
