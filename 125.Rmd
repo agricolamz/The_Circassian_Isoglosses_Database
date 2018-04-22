@@ -1,4 +1,5 @@
-## 125. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/125.html'>преверб rə-/rjə-</a><div class='box'><iframe src='https://agricolamz.github.io/The_Circassian_Isoglosses_Database/125.html' width = '400px' height = '300px'></iframe></div>preverb; morphology
+## 125. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/125.html'>преверб rə-/rjə-</a>
+preverb; morphology
 ### Description
 
 Данный преверб выглядит по-разному в темиргоевском и в бжедугском. В бжедугском присутствует в некоторых глаголах, в которых отсутствует в темиргоевском.

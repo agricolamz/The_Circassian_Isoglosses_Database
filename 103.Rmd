@@ -1,4 +1,5 @@
-## 103. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/103.html'>отсутствие эргативного префикса в прохибитиве при наличии других префиксов</a><div class='box'><iframe src='https://agricolamz.github.io/The_Circassian_Isoglosses_Database/103.html' width = '400px' height = '300px'></iframe></div>indexing
+## 103. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/103.html'>отсутствие эргативного префикса в прохибитиве при наличии других префиксов</a>
+indexing
 ### Description
 
 

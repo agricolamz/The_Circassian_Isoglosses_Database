@@ -1,4 +1,5 @@
-## 132. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/132.html'>преверб "преодолевая препятствие"</a><div class='box'><iframe src='https://agricolamz.github.io/The_Circassian_Isoglosses_Database/132.html' width = '400px' height = '300px'></iframe></div>preverb; spatial; morphology
+## 132. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/132.html'>преверб "преодолевая препятствие"</a>
+preverb; spatial; morphology
 ### Description
 
 В бжедугском и темиргоевском для этого значения используются разные превербы.

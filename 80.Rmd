@@ -1,4 +1,5 @@
-## 80. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/80.html'>междометие подтверждения</a><div class='box'><iframe src='https://agricolamz.github.io/The_Circassian_Isoglosses_Database/80.html' width = '400px' height = '300px'></iframe></div>exclamations
+## 80. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/80.html'>междометие подтверждения</a>
+exclamations
 ### Description
 
 Приведены междометия, используемые для подтверждения.

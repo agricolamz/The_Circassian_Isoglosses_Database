@@ -1,4 +1,5 @@
-## 152. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/152.html'>скалярный модификатор "очень"</a><div class='box'><iframe src='https://agricolamz.github.io/The_Circassian_Isoglosses_Database/152.html' width = '400px' height = '300px'></iframe></div>scalar; modifier
+## 152. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/152.html'>скалярный модификатор "очень"</a>
+scalar; modifier
 ### Description
 
 Для слов со значением c̣əкIʷ ‘маленький’ и ṭeкIʷ ‘немного’ в диалектах используется особый показатель превосходной степени.

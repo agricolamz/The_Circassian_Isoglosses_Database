@@ -1,4 +1,5 @@
-## 91. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/91.html'>наречие "там"</a><div class='box'><iframe src='https://agricolamz.github.io/The_Circassian_Isoglosses_Database/91.html' width = '400px' height = '300px'></iframe></div>adverb; spatial; morphology
+## 91. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/91.html'>наречие "там"</a>
+adverb; spatial; morphology
 ### Description
 
 

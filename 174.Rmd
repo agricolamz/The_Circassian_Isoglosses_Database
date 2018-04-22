@@ -1,4 +1,5 @@
-## 174. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/174.html'>эргатив плюралиса на -š'-me указательных местоимений</a><div class='box'><iframe src='https://agricolamz.github.io/The_Circassian_Isoglosses_Database/174.html' width = '400px' height = '300px'></iframe></div>demonstrative; ergative; plural; morphology
+## 174. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/174.html'>эргатив плюралиса на -š'-me указательных местоимений</a>
+demonstrative; ergative; plural; morphology
 ### Description
 
 В значениях изоглоссы отмечены диалекты, в которых зафиксированы формы указательных местоимений на -š'-me в функции эргатива плюралиса. В таких формах содержится показатель эргатива -š', использующийся только с местоимениями (с личными — только при управлении послелогами) и кумулятивный показатель эргатива и плюралиса -me.

@@ -1,4 +1,5 @@
-## 2. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/2.html'>адвербиалис указательного местоимения</a><div class='box'><iframe src='https://agricolamz.github.io/The_Circassian_Isoglosses_Database/2.html' width = '400px' height = '300px'></iframe></div>demonstrative; adverbial; singular; morphology
+## 2. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/2.html'>адвербиалис указательного местоимения</a>
+demonstrative; adverbial; singular; morphology
 ### Description
 
 В изоглоссе приведена форма адвербиалиса местоимения ar отмеченная в соотвествующем идиоме.

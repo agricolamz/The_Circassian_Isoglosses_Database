@@ -1,4 +1,5 @@
-## 53. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/53.html'>конверб на -jeje</a><div class='box'><iframe src='https://agricolamz.github.io/The_Circassian_Isoglosses_Database/53.html' width = '400px' height = '300px'></iframe></div>coordination
+## 53. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/53.html'>конверб на -jeje</a>
+coordination
 ### Description
 
 При сочинении двух императивов, первый из них оформляется разными суффиксами

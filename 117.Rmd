@@ -1,4 +1,5 @@
-## 117. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/117.html'>послелог "исходя из"</a><div class='box'><iframe src='https://agricolamz.github.io/The_Circassian_Isoglosses_Database/117.html' width = '400px' height = '300px'></iframe></div>postposition
+## 117. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/117.html'>послелог "исходя из"</a>
+postposition
 ### Description
 
 Разница между вариантами послелога не только в окончании инструменталиса -кIэ и -джэ, но и в наличии преверба хэ-

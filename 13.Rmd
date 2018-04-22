@@ -1,4 +1,5 @@
-## 13. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/13.html'>вопросительный маркер -a</a><div class='box'><iframe src='https://agricolamz.github.io/The_Circassian_Isoglosses_Database/13.html' width = '400px' height = '300px'></iframe></div>questions
+## 13. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/13.html'>вопросительный маркер -a</a>
+questions
 ### Description
 
 Вопросительный маркер -a может отсутствовать.

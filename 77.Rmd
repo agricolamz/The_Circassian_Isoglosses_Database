@@ -1,4 +1,5 @@
-## 77. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/77.html'>медиальное местоимение</a><div class='box'><iframe src='https://agricolamz.github.io/The_Circassian_Isoglosses_Database/77.html' width = '400px' height = '300px'></iframe></div>demonstrative; medial; distant; visible
+## 77. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/77.html'>медиальное местоимение</a>
+demonstrative; medial; distant; visible
 ### Description
 
 Существуют разные корни медиальных демонстративов.

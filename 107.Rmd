@@ -1,4 +1,5 @@
-## 107. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/107.html'>показатели (не)переходности</a><div class='box'><iframe src='https://agricolamz.github.io/The_Circassian_Isoglosses_Database/107.html' width = '400px' height = '300px'></iframe></div>transitivity
+## 107. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/107.html'>показатели (не)переходности</a>
+transitivity
 ### Description
 
 Некоторые глаголы могут быть как переходными, так и не переходными (то есть, P-лабильными). Иногда это маркируется гласным в основе: -e в непереходных, -ə в переходных.

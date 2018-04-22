@@ -1,4 +1,5 @@
-## 176. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/176.html'>эргатив плюралиса указательных местоимений</a><div class='box'><iframe src='https://agricolamz.github.io/The_Circassian_Isoglosses_Database/176.html' width = '400px' height = '300px'></iframe></div>pronoun; demonstrative; ergative; plural; morphology
+## 176. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/176.html'>эргатив плюралиса указательных местоимений</a>
+pronoun; demonstrative; ergative; plural; morphology
 ### Description
 
 В значениях изоглоссы описано образование форм эргатива плюралиса указательных местоимений по источникам, в которых это подробно описано. Для каждого типа форм создана отдельная изоглосса.

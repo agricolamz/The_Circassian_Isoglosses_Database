@@ -1,4 +1,5 @@
-## 82. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/82.html'>междометие удивления</a><div class='box'><iframe src='https://agricolamz.github.io/The_Circassian_Isoglosses_Database/82.html' width = '400px' height = '300px'></iframe></div>exclamations
+## 82. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/82.html'>междометие удивления</a>
+exclamations
 ### Description
 
 Приведены междометия, используемые для выражения удивления.

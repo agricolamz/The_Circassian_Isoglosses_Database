@@ -1,4 +1,5 @@
-## 5. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/5.html'>бенефактивный послелог</a><div class='box'><iframe src='https://agricolamz.github.io/The_Circassian_Isoglosses_Database/5.html' width = '400px' height = '300px'></iframe></div>postposition; beneficial
+## 5. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/5.html'>бенефактивный послелог</a>
+postposition; beneficial
 ### Description
 
 В изоглоссе приведены бенефактивные послелоги.

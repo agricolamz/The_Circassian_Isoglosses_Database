@@ -1,4 +1,5 @@
-## 9. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/9.html'>вопросительное слово "когда?"</a><div class='box'><iframe src='https://agricolamz.github.io/The_Circassian_Isoglosses_Database/9.html' width = '400px' height = '300px'></iframe></div>wh-pronouns
+## 9. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/9.html'>вопросительное слово "когда?"</a>
+wh-pronouns
 ### Description
 
 В изоглоссе приводится вопросительное слово "когда?" в соотвествующем идиоме.

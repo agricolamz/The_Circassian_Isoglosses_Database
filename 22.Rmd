@@ -1,4 +1,5 @@
-## 22. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/22.html'>дезидератив</a><div class='box'><iframe src='https://agricolamz.github.io/The_Circassian_Isoglosses_Database/22.html' width = '400px' height = '300px'></iframe></div>mood
+## 22. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/22.html'>дезидератив</a>
+mood
 ### Description
 
 Форма дезидератива образуется присоединением -ʁʷ к причастию настоящего времени ḳʷe-ra-ʁʷ "он является желающим идти". Такие формы могут изменяются по лицам, но не по времени. Для выражения времени используется вспомогательный глагол sə-ḳʷe-ra-ʁʷ-ew sə-χʷə-š't "я буду являться желающим идти"

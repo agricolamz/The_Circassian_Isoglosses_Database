@@ -1,4 +1,5 @@
-## 11. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/11.html'>вопросительное слово "сколько?"</a><div class='box'><iframe src='https://agricolamz.github.io/The_Circassian_Isoglosses_Database/11.html' width = '400px' height = '300px'></iframe></div>wh-pronouns
+## 11. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/11.html'>вопросительное слово "сколько?"</a>
+wh-pronouns
 ### Description
 
 В изоглоссе приводится вопросительное слово "сколько?" в соотвествующем идиоме.

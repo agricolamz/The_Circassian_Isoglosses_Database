@@ -1,4 +1,5 @@
-## 20. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/20.html'>выражение темпорального таксиса "после того"</a><div class='box'><iframe src='https://agricolamz.github.io/The_Circassian_Isoglosses_Database/20.html' width = '400px' height = '300px'></iframe></div>adverb; temporal
+## 20. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/20.html'>выражение темпорального таксиса "после того"</a>
+adverb; temporal
 ### Description
 
 

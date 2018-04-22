@@ -1,4 +1,5 @@
-## 149. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/149.html'>релятивизация места: эссив</a><div class='box'><iframe src='https://agricolamz.github.io/The_Circassian_Isoglosses_Database/149.html' width = '400px' height = '300px'></iframe></div>relativization
+## 149. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/149.html'>релятивизация места: эссив</a>
+relativization
 ### Description
 
 Релятивном префикс zə-, выполняющий релятивизацию места, могут вводить разные пространственные превербы. Эссивная релятивизация ("там, где") в шапсугском выражается префиксами z-də-š'-.

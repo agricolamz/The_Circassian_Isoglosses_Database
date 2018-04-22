@@ -1,4 +1,5 @@
-## 74. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/74.html'>контрафактивное условие</a><div class='box'><iframe src='https://agricolamz.github.io/The_Circassian_Isoglosses_Database/74.html' width = '400px' height = '300px'></iframe></div>contrafactive; modality; morphology
+## 74. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/74.html'>контрафактивное условие</a>
+contrafactive; modality; morphology
 ### Description
 
 Формы, переводящиеся с помощью русского "если бы", маркируется кондиционалисом -me и сочетением -je-me в бжедугском.

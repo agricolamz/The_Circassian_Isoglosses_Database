@@ -1,4 +1,5 @@
-## 110. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/110.html'>показатель будущего времени</a><div class='box'><iframe src='https://agricolamz.github.io/The_Circassian_Isoglosses_Database/110.html' width = '400px' height = '300px'></iframe></div>tense; future; morphology; phonology
+## 110. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/110.html'>показатель будущего времени</a>
+tense; future; morphology; phonology
 ### Description
 
 Показатель будущего времени может выглядеть как -š't или -t в разных диалектах.

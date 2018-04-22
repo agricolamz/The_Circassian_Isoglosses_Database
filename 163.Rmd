@@ -1,4 +1,5 @@
-## 163. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/163.html'>уступительное придаточное</a><div class='box'><iframe src='https://agricolamz.github.io/The_Circassian_Isoglosses_Database/163.html' width = '400px' height = '300px'></iframe></div>modality; morphology
+## 163. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/163.html'>уступительное придаточное</a>
+modality; morphology
 ### Description
 
 Во многих диалектах маркируется сочетанием инструменталиса (ср. условное наклонение, маркированное просто инструменталисом [Ситимова 2004: 87-88]) и аддитивного -jə, но не в абадзехском — там используется сочетание с кондиционалисом -me-jə (-ми) и вариант с темиргоевским инструменталисом -č̣’e-jə (-кIи). Имеет значение типа "хотя и".

@@ -1,4 +1,5 @@
-## 130. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/130.html'>преверб инструмента</a><div class='box'><iframe src='https://agricolamz.github.io/The_Circassian_Isoglosses_Database/130.html' width = '400px' height = '300px'></iframe></div>preverb; instrumental; morphology
+## 130. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/130.html'>преверб инструмента</a>
+preverb; instrumental; morphology
 ### Description
 
 Данный аппликатив вводит аргумент роли инструмента.

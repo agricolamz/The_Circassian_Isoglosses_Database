@@ -1,4 +1,5 @@
-## 104. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/104.html'>падеж имени, выражающего абсолютивный актант 1 или 2 лица</a><div class='box'><iframe src='https://agricolamz.github.io/The_Circassian_Isoglosses_Database/104.html' width = '400px' height = '300px'></iframe></div>case; first and second person; absolutive; ergative; instrumental; morphology
+## 104. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/104.html'>падеж имени, выражающего абсолютивный актант 1 или 2 лица</a>
+case; first and second person; absolutive; ergative; instrumental; morphology
 ### Description
 
 Абсолютивный актант 1 или 2 лица, выраженный именем, может оформляться не абсолютивом.

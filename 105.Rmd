@@ -1,4 +1,5 @@
-## 105. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/105.html'>падежный маркер на обладаемом</a><div class='box'><iframe src='https://agricolamz.github.io/The_Circassian_Isoglosses_Database/105.html' width = '400px' height = '300px'></iframe></div>possession
+## 105. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/105.html'>падежный маркер на обладаемом</a>
+possession
 ### Description
 
 В адыгейском падежные показатели не присоединяются к обладаемым именам в единственном числе и не являющимся при этом посессорами. В кабардинском языке обладаемые имена присоединяют падежные показатели.

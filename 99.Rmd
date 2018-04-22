@@ -1,4 +1,5 @@
-## 99. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/99.html'>обстоятельство времени</a><div class='box'><iframe src='https://agricolamz.github.io/The_Circassian_Isoglosses_Database/99.html' width = '400px' height = '300px'></iframe></div>relativization
+## 99. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/99.html'>обстоятельство времени</a>
+relativization
 ### Description
 
 Обстоятельство времени, выраженное глагольной словоформой оформляется с помощью релятивного префикса z- и показателя обликвуса -m
