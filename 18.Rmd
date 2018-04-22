@@ -1,5 +1,6 @@
 ## 18. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/18.html'>выражение значения 'вниз'</a>
 preverb; spatial; morphology
+
 ### Description
 
 

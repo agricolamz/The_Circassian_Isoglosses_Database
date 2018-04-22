@@ -1,5 +1,6 @@
 ## 83. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/83.html'>местоимение wədre 'тот'</a>
 demonstrative
+
 ### Description
 
 Помимо самого местоимения wə есть еще wədre. Пока не понимаю, есть ли и от других демонстративов и в других диалектах

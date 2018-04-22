@@ -1,5 +1,6 @@
 ## 34. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/34.html'>значение "наперегонки"</a>
 preverb; morphology
+
 ### Description
 
 Значение "наперегонки" может выражаться морфологически в префиксальной зоне сказуемого

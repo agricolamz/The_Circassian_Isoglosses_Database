@@ -1,5 +1,6 @@
 ## 129. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/129.html'>преверб зэхэ-/зыхэ-</a>
 preverb; morphology
+
 ### Description
 
 Бжедугскому зэхэ- в некоторых случает соответствует в темиргоевском зыхэ-

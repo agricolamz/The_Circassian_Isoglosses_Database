@@ -1,5 +1,6 @@
 ## 148. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/148.html'>релятивизация места без преверба</a>
 relativization
+
 ### Description
 
 В шапсугском релятивизация места не бывает без пространственного преверба.

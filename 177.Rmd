@@ -1,5 +1,6 @@
 ## 177. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/177.html'>эргатив сингуляриса указательных местоимений</a>
 pronoun; demonstrative; ergative; singular; morphology
+
 ### Description
 
 Форма эргатива образуется с помощью суффиксов -š' и -j, которые присоединяются непосредственно к корню. Форма на -j имеет разговорный характер [Зекох 1969: 63]

@@ -1,5 +1,6 @@
 ## 111. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/111.html'>показатель инструменталиса</a>
 case; instrumental; morphology
+
 ### Description
 
 Показатель инструменталиса выглядит по-разному в разных диалектах. Чаще всего это объясняется фонетическим расхождением диалектов.

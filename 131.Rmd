@@ -1,5 +1,6 @@
 ## 131. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/131.html'>преверб образа действия</a>
 preverb; manner; morphology
+
 ### Description
 
 Данный аппликатив используется при релятивизации образа действия

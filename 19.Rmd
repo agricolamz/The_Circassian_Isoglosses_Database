@@ -1,5 +1,6 @@
 ## 19. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/19.html'>выражение имперфекта</a>
 tense; imperfect; auxiliary; morphology; phonology
+
 ### Description
 
 Имперфект выражается присоединением вспомогательной основой с показателем прошедшего времени. Вспомогательная основа может выглядеть как š'tə- или tə- в разных диалектах. В значениях изоглосс записана основа с показателем прошедшего времени.

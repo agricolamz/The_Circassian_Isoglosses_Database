@@ -1,5 +1,6 @@
 ## 65. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/65.html'>конверб на -zə</a>
 converb; morphology
+
 ### Description
 
 Показатель инфинитности -zə есть только в абадзехском.

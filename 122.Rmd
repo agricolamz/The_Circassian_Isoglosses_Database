@@ -1,5 +1,6 @@
 ## 122. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/122.html'>преверб č̣’e-λə-rə "возле"</a>
 preverb; spatial; morphology
+
 ### Description
 
 В темиргоевском преверб č̣’e-λə- "возле" может употребляться без λə-. Кроме того, в темиргоевском может употребляться в этом значении преверб bʁʷode (который "более характерен для кабардино-черкесского")

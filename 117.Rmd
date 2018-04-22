@@ -1,5 +1,6 @@
 ## 117. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/117.html'>послелог "исходя из"</a>
 postposition
+
 ### Description
 
 Разница между вариантами послелога не только в окончании инструменталиса -кIэ и -джэ, но и в наличии преверба хэ-

@@ -1,5 +1,6 @@
 ## 136. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/136.html'>превербы t-, qʷ-, gʷ-</a>
 preverb; morphology
+
 ### Description
 
 gʷ- в шапсугском иногда заменяет t-, qʷ-

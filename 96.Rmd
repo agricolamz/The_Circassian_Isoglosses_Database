@@ -1,5 +1,6 @@
 ## 96. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/96.html'>образование отрицательных местоимений</a>
 negative pronouns
+
 ### Description
 
 Отрицательные местоимения образуются сложением числительного "один" и местоименных основ с аддитивными союзами [Керашева 1957: 277].

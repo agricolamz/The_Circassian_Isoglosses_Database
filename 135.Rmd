@@ -1,5 +1,6 @@
 ## 135. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/135.html'>преверб "через"</a>
 preverb; spatial; morphology
+
 ### Description
 
 gʷ- в шапсугском иногда заменяет ḳawc̣ə-

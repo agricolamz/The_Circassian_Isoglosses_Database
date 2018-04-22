@@ -1,5 +1,6 @@
 ## 10. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/10.html'>вопросительное слово "почему?"</a>
 wh-pronouns
+
 ### Description
 
 В изоглоссе приводится вопросительное слово "почему?" в соотвествующем идиоме.

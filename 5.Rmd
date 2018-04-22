@@ -1,5 +1,6 @@
 ## 5. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/5.html'>бенефактивный послелог</a>
 postposition; beneficial
+
 ### Description
 
 В изоглоссе приведены бенефактивные послелоги.

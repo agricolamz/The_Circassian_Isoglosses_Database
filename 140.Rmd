@@ -1,5 +1,6 @@
 ## 140. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/140.html'>предикативная форма местоимений</a>
 pronoun; predicative; morphology
+
 ### Description
 
 Предикативная форма образуется суффиксом -rə, который может присоединяться к корню, а может к основе на -r

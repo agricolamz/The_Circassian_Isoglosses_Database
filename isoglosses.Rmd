@@ -59,7 +59,7 @@ DT::datatable(db[,-6],escape = FALSE, rownames = FALSE,
 sapply(seq_along(db$id), function(i){
   indexes <- which(db$id %in% db$id[i])
   title <- paste0("## ", db$id[i], ". ", db$title[i])
-  description <- c(db$key_words[i], "### Description", "", 
+  description <- c(db$key_words[i],"",  "### Description", "", 
                    ifelse(is.na(db$description[i]), "", db$description[i]),
                    "")
   

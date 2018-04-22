@@ -1,5 +1,6 @@
 ## 154. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/154.html'>сослагательное наклонение</a>
 modality; subjunctive; morphology
+
 ### Description
 
 Cослагательное наклонение может выражаться с помощью имперфекта (морфологизованный вспомогательный глагол и показатель претерита) или сочетанием показателей будущего времени и претерита.

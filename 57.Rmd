@@ -1,5 +1,6 @@
 ## 57. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/57.html'>конверб на -ŝ</a>
 converb; causal; morphology
+
 ### Description
 
 Ситуация инфинитного глагола предшествует ситуации финитного, может иметь значение причинности [Керашева 1957: 270].

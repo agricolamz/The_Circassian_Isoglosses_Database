@@ -1,5 +1,6 @@
 ## 4. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/4.html'>ассимиляция неабсолютивного индекса второго лица единственного числа перед согласным /p/</a>
 2sg io or erg index; assimilation; morphonology
+
 ### Description
 
 Неабсолютивный индекс второго лица единственного числа w- обычно перед согласными переходит в p-. Перед согласным /p/ этого может не происходить.

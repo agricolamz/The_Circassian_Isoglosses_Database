@@ -1,5 +1,6 @@
 ## 114. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/114.html'>порядковое числительное ‘первый’</a>
 numeral; morphology
+
 ### Description
 
 Порядковое числительное ‘первый’ анализируется как содержащее показатель посессивности в шапсугском, но не содержащим в литературном адыгейском.
