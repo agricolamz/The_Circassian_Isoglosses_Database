@@ -1,13 +1,10 @@
-```{r, include=FALSE}
+```{r, echo=FALSE}
 library(lingtypology)
-```
-
-```{r}
 map.feature(languages = circassian$language,
             features = circassian$dialect,
             label = circassian$village,
             latitude = circassian$latitude,
-            longitude = circassian$language)
+            longitude = circassian$longitude)
 ```
 
 
