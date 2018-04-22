@@ -1,0 +1,26 @@
+```{r sets table 2, include=FALSE}
+library(DT)
+library(tidyverse)
+knitr::opts_chunk$set(echo=FALSE, message=FALSE)
+```
+
+```{r render table 2}
+read_tsv("https://raw.githubusercontent.com/agricolamz/The_Circassian_Isoglosses_Database/master/database.csv") %>% 
+  mutate(id = as.integer(factor(title)),
+         title = paste0("<a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/",
+                        id,
+                        ".html'>",
+                        title,
+                        "</a>")) ->
+  db
+
+DT::datatable(db[,-6],escape = FALSE, rownames = FALSE,
+              extensions = c('ColReorder', 'Buttons', 'FixedHeader'),
+              filter = list(position = 'top', clear = TRUE),
+              options = list(pageLength = 20, 
+                             dom = 'Btip', 
+                             autoWidth = TRUE, 
+                             colReorder = TRUE,
+                             fixedHeader = TRUE,
+                             buttons = I('colvis'))) # remove description column
+```
