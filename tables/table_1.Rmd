@@ -1,0 +1,47 @@
+---
+knit: (function(inputFile, encoding) { 
+      out_dir <- '../docs';
+      rmarkdown::render(inputFile,
+                        encoding=encoding, 
+                        output_file=file.path(dirname(inputFile), out_dir, 'table_1.html')) })
+---
+
+```{r, include=FALSE}
+library(DT)
+library(tidyverse)
+knitr::opts_chunk$set(echo=FALSE, message=FALSE)
+```
+
+```{r}
+read_tsv("https://raw.githubusercontent.com/agricolamz/The_Circassian_Isoglosses_Database/master/database.csv") %>% 
+  mutate(id = as.integer(factor(title)),
+         title = paste0("<a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/",
+                        id,
+                        ".html'>",
+                        title,
+                        "</a>")) ->
+  db
+
+db %>% 
+  mutate(value = paste(value, "<br>", source)) %>%
+  group_by(id) %>% 
+  mutate(impact = n()) %>%
+  group_by(id, idiom) %>% 
+  mutate(value = str_c(value, collapse = "<br>")) %>% 
+  select(impact, title, topic, contributor, idiom, value) %>% 
+  distinct() %>% 
+  spread(idiom, value) %>% 
+  mutate_all(function(x){ifelse(is.na(x), "", x)}) %>% 
+  datatable(escape = FALSE, rownames = FALSE,
+            extensions = c('ColReorder', 'Buttons', 'FixedColumns', 'FixedHeader'),
+            # filter = list(position = 'top', clear = TRUE),
+            options = list(
+              dom = 'Btip', 
+              autoWidth = TRUE, 
+              colReorder = TRUE, 
+              buttons = I('colvis'),
+              fixedHeader = TRUE,
+              # scrollY = TRUE,
+              fixedColumns = list(leftColumns = 4),
+              pageLength = 20))
+```
