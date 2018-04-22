@@ -28,7 +28,7 @@ db %>%
   mutate_all(function(x){ifelse(is.na(x), "", x)}) %>% 
   datatable(escape = FALSE, rownames = FALSE,
             extensions = c('ColReorder', 'Buttons', 'FixedHeader'),
-            # filter = list(position = 'top', clear = TRUE),
+            filter = list(position = 'top', clear = TRUE),
             options = list(
               dom = 'Btip', 
               autoWidth = TRUE, 
