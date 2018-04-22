@@ -1,3 +1,5 @@
+<style> div.main-container { max-width: 1600px; } </style>
+
 ```{r sets table 1, include=FALSE}
 library(DT)
 library(tidyverse)
