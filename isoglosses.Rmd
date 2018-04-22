@@ -4,37 +4,40 @@ output:
     css: /home/agricolamz/work/databases/The_Circassian_Isoglosses_Database/my.css
 ---
 
-```{r, include=FALSE}
+```{r sets and render tables, include=FALSE}
 library(DT)
 library(tidyverse)
 knitr::opts_chunk$set(echo=FALSE, message=FALSE)
-rmarkdown::render("./tables/table_1.Rmd")
+rmarkdown::render("./tables/table_1.Rmd", output_dir = "./docs/")
+rmarkdown::render("./tables/table_2.Rmd", output_dir = "./docs/")
 ```
 
 
 ### {.tabset .tabset-fade .tabset-pills}
 #### Partial data
 <div class="box">
-  <iframe src="https://agricolamz.github.io/The_Circassian_Isoglosses_Database/table_1.html" width = "900px" height = "500px" frameborder="0">
+  <iframe src="https://agricolamz.github.io/The_Circassian_Isoglosses_Database/table_1.html" width = "1200px" height = "500px" frameborder="0">
   </iframe>
 </div>
 
 #### Whole dataset
-```{r}
-DT::datatable(db[,-6],escape = FALSE, rownames = FALSE,
-              extensions = c('ColReorder', 'Buttons', 'FixedHeader'),
-              #filter = list(position = 'top', clear = TRUE),
-              options = list(pageLength = 20, 
-                             dom = 'Btip', 
-                             autoWidth = TRUE, 
-                             colReorder = TRUE,
-                             fixedHeader = TRUE,
-                             buttons = I('colvis'))) # remove description column
-```
+<div class="box">
+  <iframe src="https://agricolamz.github.io/The_Circassian_Isoglosses_Database/table_2.html" width = "1200px" height = "500px" frameborder="0">
+  </iframe>
+</div>
+
 
 
 ```{r, include=FALSE}
 # isoglosses creation
+read_tsv("https://raw.githubusercontent.com/agricolamz/The_Circassian_Isoglosses_Database/master/database.csv") %>% 
+  mutate(id = as.integer(factor(title)),
+         title = paste0("<a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/",
+                        id,
+                        ".html'>",
+                        title,
+                        "</a>")) ->
+  db
 
 sapply(seq_along(db$id), function(i){
   indexes <- which(db$id %in% db$id[i])
