@@ -1,4 +1,4 @@
-## 37. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/37.html'>индекс 3sg.erg</a>
+## 37. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/37.html'>индекс 3sg.erg</a><div class='box'><iframe src='https://agricolamz.github.io/The_Circassian_Isoglosses_Database/37.html' width = '400px' height = '300px'></iframe></div>indexing
 ### Description
 
 В значениях изоглоссы собраны отмеченные особенности реализации эргативного префикса третьего лица единственного числа

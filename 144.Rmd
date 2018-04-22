@@ -1,4 +1,4 @@
-## 144. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/144.html'>противительный союз</a>
+## 144. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/144.html'>противительный союз</a><div class='box'><iframe src='https://agricolamz.github.io/The_Circassian_Isoglosses_Database/144.html' width = '400px' height = '300px'></iframe></div>conjunction
 ### Description
 
 Союз переводится с помощью русского союза но: "C1 ŝhaj, C2" = "C1, но C2"

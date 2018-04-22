@@ -1,4 +1,4 @@
-## 172. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/172.html'>эргатив на -me в единственном числе</a>
+## 172. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/172.html'>эргатив на -me в единственном числе</a><div class='box'><iframe src='https://agricolamz.github.io/The_Circassian_Isoglosses_Database/172.html' width = '400px' height = '300px'></iframe></div>case; ergative; singular; morphology
 ### Description
 
 Эргатив маркируется суффиксом -м в единственном числе, а во множественном плюралис и эргатив кумулятивно выражаются в -мэ (хотя в Темиргоевском может быть и показатель плюралиса: -хэ-мэ, или -хэ-м). Изоглосса описывает, в каких диалектах -мэ бывает и при сингулярисе.

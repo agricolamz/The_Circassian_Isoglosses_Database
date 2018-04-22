@@ -1,4 +1,4 @@
-## 139. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/139.html'>превосходная степень прилагательных</a>
+## 139. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/139.html'>превосходная степень прилагательных</a><div class='box'><iframe src='https://agricolamz.github.io/The_Circassian_Isoglosses_Database/139.html' width = '400px' height = '300px'></iframe></div>adjectives
 ### Description
 
 Суффикс, образующий превосходную степень прилагательных выглядит в бжедугском как -qeps, а в других диалектах (пример только из темиргоевского) как -qeps и -qəc. К нему может присоединяться синонимичный -bz, однако для темиргоевского приведена форма на -qəcəbz, но не -qepsəbz.

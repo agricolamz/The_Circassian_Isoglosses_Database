@@ -1,4 +1,4 @@
-## 85. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/85.html'>местоимение-интенсификатор</a>
+## 85. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/85.html'>местоимение-интенсификатор</a><div class='box'><iframe src='https://agricolamz.github.io/The_Circassian_Isoglosses_Database/85.html' width = '400px' height = '300px'></iframe></div>pronoun; intensifier
 ### Description
 
 Встречаются различные варианты местоимения-интенсификатора, которые отличаются 1) тем, присоединяют ли они показатели числа и падежа, и присутствует ли перед этими показателями -r- (встречающийся и в других местоимениях); 2) своей основой (не считая -r-). В значении изоглоссы дана основа, а в комментарии находятся данные в источнике сведения о присоединении к основам показателей числа и падежа.

@@ -1,4 +1,4 @@
-## 147. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/147.html'>релятивизация места REL-de</a>
+## 147. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/147.html'>релятивизация места REL-de</a><div class='box'><iframe src='https://agricolamz.github.io/The_Circassian_Isoglosses_Database/147.html' width = '400px' height = '300px'></iframe></div>relativization
 ### Description
 
 Префикс релятивизации места перед локативным превербом de- выглядит как zə- в бжедугском и как z- в темиргоевском.

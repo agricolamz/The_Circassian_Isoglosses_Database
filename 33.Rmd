@@ -1,4 +1,4 @@
-## 33. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/33.html'>значение "вверх"</a>
+## 33. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/33.html'>значение "вверх"</a><div class='box'><iframe src='https://agricolamz.github.io/The_Circassian_Isoglosses_Database/33.html' width = '400px' height = '300px'></iframe></div>preverb; spatial; morphology
 ### Description
 
 Значение "вверх" выражается в глаголе сочетанием преверба и суффикса.

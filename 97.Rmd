@@ -1,4 +1,4 @@
-## 97. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/97.html'>обратный порядок индексов</a>
+## 97. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/97.html'>обратный порядок индексов</a><div class='box'><iframe src='https://agricolamz.github.io/The_Circassian_Isoglosses_Database/97.html' width = '400px' height = '300px'></iframe></div>indexing
 ### Description
 
 Иногда в глаголах с абсолютивным индексом и индексом непрямого объекта эти индексы меняются местами. Для абадзехского эксплицировано, что это может происходить когда абсолютивный участник первого лица, а непрямой объект — второго. Для темиргоевского это не уточняется, однако все приведенные примеры с абсолютивом первого лица и непрямым объектом второго. В значениях изоглоссы отображается, с какими аппликативами приводятся примеры.

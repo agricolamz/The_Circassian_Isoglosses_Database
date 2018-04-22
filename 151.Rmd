@@ -1,4 +1,4 @@
-## 151. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/151.html'>сентенциальный актант глагола ‘хотеть’</a>
+## 151. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/151.html'>сентенциальный актант глагола ‘хотеть’</a><div class='box'><iframe src='https://agricolamz.github.io/The_Circassian_Isoglosses_Database/151.html' width = '400px' height = '300px'></iframe></div>case; sentential actant; morphology
 ### Description
 
 Форма на -n MOD в позиции аргумента при матричном глаголе 'хотеть' оформляется инструменталисом или адвербиалисом.

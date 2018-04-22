@@ -1,4 +1,4 @@
-## 113. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/113.html'>показатель эргатива -ə</a>
+## 113. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/113.html'>показатель эргатива -ə</a><div class='box'><iframe src='https://agricolamz.github.io/The_Circassian_Isoglosses_Database/113.html' width = '400px' height = '300px'></iframe></div>case; ergative; indefinite; morphology
 ### Description
 
 Грамматически неопределенные именные группы (включая имена собственные и имена с посессивным префиксом) в некоторых диалектах не имеют показателей абсолютива и эргатива, а в некоторых диалектах присоединяют показатель эргатива -ə, если оканчиваются на согласный.

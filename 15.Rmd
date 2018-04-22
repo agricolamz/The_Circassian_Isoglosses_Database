@@ -1,4 +1,4 @@
-## 15. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/15.html'>выпадение -r- перед отрицанием в настоящем времени</a>
+## 15. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/15.html'>выпадение -r- перед отрицанием в настоящем времени</a><div class='box'><iframe src='https://agricolamz.github.io/The_Circassian_Isoglosses_Database/15.html' width = '400px' height = '300px'></iframe></div>dynamic
 ### Description
 
 В бжедугском и темиргоевском иногда выпадает согласный /r/ суффикса динамичности перед отрицанием -ep

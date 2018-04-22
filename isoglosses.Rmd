@@ -1,3 +1,9 @@
+---
+output: 
+  html_document:
+    css: /home/agricolamz/work/databases/The_Circassian_Isoglosses_Database/my.css
+---
+
 ```{r, include=FALSE}
 library(DT)
 library(tidyverse)
@@ -12,10 +18,12 @@ knitr::opts_chunk$set(echo=FALSE, message=FALSE)
 read_tsv("https://raw.githubusercontent.com/agricolamz/The_Circassian_Isoglosses_Database/master/database.csv") %>% 
   mutate(id = as.integer(factor(title)),
     title = paste0("<a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/",
-                        id,
-                        ".html'>",
-                        title,
-                        "</a>")) ->
+                   id,
+                   ".html'>",
+                    title,
+                   "</a><div class='box'><iframe src='https://agricolamz.github.io/The_Circassian_Isoglosses_Database/",
+                   id,
+                   ".html' width = '400px' height = '300px'></iframe></div>")) ->
   db
 
 db %>% 
@@ -52,7 +60,7 @@ DT::datatable(db[,-6],escape = FALSE, rownames = FALSE,
 
 sapply(seq_along(db$id), function(i){
   indexes <- which(db$id %in% db$id[i])
-  title <- paste0("## ", db$id[i], ". ", db$title[i])
+  title <- paste0("## ", db$id[i], ". ", db$title[i], db$key_words[i])
   description <- c("### Description", "", 
                    ifelse(is.na(db$description[i]), "", db$description[i]),
                    "")

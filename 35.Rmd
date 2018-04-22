@@ -1,4 +1,4 @@
-## 35. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/35.html'>значение функтива</a>
+## 35. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/35.html'>значение функтива</a><div class='box'><iframe src='https://agricolamz.github.io/The_Circassian_Isoglosses_Database/35.html' width = '400px' height = '300px'></iframe></div>case; functive; instrumental; adverbial; morphology
 ### Description
 
 Значение 'в качестве X' выражается инструменталисом или адвербиалисом

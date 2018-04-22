@@ -1,4 +1,4 @@
-## 73. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/73.html'>конструкция эпистемической возможности</a>
+## 73. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/73.html'>конструкция эпистемической возможности</a><div class='box'><iframe src='https://agricolamz.github.io/The_Circassian_Isoglosses_Database/73.html' width = '400px' height = '300px'></iframe></div>mood
 ### Description
 
 Конструкция, выражающая эпистемическую возможность состоит из формы на -MOD-INS-ADD (см. пред. глоссу) и частицы χun в бжедугском и meχun в темиргоевском. В темиргоевском примере -n MOD блокирует чередование (что согласуется с тем, что написано об эпистемической конструкции с faje), а в бжедугском — нет.

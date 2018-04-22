@@ -1,4 +1,4 @@
-## 156. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/156.html'>сочетание -re DYN и -a Q</a>
+## 156. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/156.html'>сочетание -re DYN и -a Q</a><div class='box'><iframe src='https://agricolamz.github.io/The_Circassian_Isoglosses_Database/156.html' width = '400px' height = '300px'></iframe></div>wh-question; morphology; morphonology
 ### Description
 
 В вопросительных формах глагола сочетание суффикса динамичности -re и вопросительного суффикса -a обычно реализуется как -ra, но может и как -aa.

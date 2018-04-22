@@ -1,4 +1,4 @@
-## 164. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/164.html'>фактивный преверб</a>
+## 164. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/164.html'>фактивный преверб</a><div class='box'><iframe src='https://agricolamz.github.io/The_Circassian_Isoglosses_Database/164.html' width = '400px' height = '300px'></iframe></div>preverb; manner; morphology
 ### Description
 
 Данный аппликатив используется при релятивизации факта (см. обсуждение статуса элемента зэрэ-/зэры- в [Герасимов, Ландер: 2008]).

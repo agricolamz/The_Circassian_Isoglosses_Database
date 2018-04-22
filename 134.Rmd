@@ -1,4 +1,4 @@
-## 134. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/134.html'>преверб со значением нечаянности</a>
+## 134. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/134.html'>преверб со значением нечаянности</a><div class='box'><iframe src='https://agricolamz.github.io/The_Circassian_Isoglosses_Database/134.html' width = '400px' height = '300px'></iframe></div>preverb; morphology
 ### Description
 
 В [Ситимова 2004: 103-104] приводятся два преверба, которые различаются в диалектах по фонетическим причинам. Один из них это žexe (тем.) /ǯexe (бжед.), а другой ʔač̣’e (тем.) / ʔeč̣’e (бжед.) показался мне подозрительным. Значение не уточняется, но, судя по большинству примеров, имеет значение нечаянного действия.

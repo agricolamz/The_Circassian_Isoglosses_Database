@@ -1,4 +1,4 @@
-## 173. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/173.html'>эргатив плюралиса</a>
+## 173. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/173.html'>эргатив плюралиса</a><div class='box'><iframe src='https://agricolamz.github.io/The_Circassian_Isoglosses_Database/173.html' width = '400px' height = '300px'></iframe></div>case; ergative; plural; morphology
 ### Description
 
 Эргатив множественного числа существительных в адыгейских диалектах маркируется суффиксом -мэ. В литературном адыгейском языке существуют варианты с показателем множественного числа: -хэ-мэ, -хэ-м.

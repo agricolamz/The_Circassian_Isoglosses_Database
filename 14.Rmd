@@ -1,4 +1,4 @@
-## 14. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/14.html'>выпадение -r- перед абсолютивом</a>
+## 14. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/14.html'>выпадение -r- перед абсолютивом</a><div class='box'><iframe src='https://agricolamz.github.io/The_Circassian_Isoglosses_Database/14.html' width = '400px' height = '300px'></iframe></div>dynamic
 ### Description
 
 В бжедугском может выпадать согласный /r/ суффикса динамичности перед абсолютивом.

@@ -1,4 +1,4 @@
-## 76. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/76.html'>масдарная форма на -n MOD</a>
+## 76. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/76.html'>масдарная форма на -n MOD</a><div class='box'><iframe src='https://agricolamz.github.io/The_Circassian_Isoglosses_Database/76.html' width = '400px' height = '300px'></iframe></div>masdar; impersonal index; morphology
 ### Description
 
 В восточных диалектах масдарная форма снабжается префиксом wə- (видимо, имперсональное использование индекса второго лица единственного числа), тогда как в бжедугском — нет. Однако, не уточняется, при каких именно условиях это происходит.
