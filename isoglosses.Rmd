@@ -16,13 +16,13 @@ rmarkdown::render("./tables/table_2.Rmd", output_dir = "./docs/")
 ### {.tabset .tabset-fade .tabset-pills}
 #### Partial data
 <div class="box">
-  <iframe src="https://agricolamz.github.io/The_Circassian_Isoglosses_Database/table_1.html" width = "1100px" height = "500px" frameborder="0">
+  <iframe src="https://agricolamz.github.io/The_Circassian_Isoglosses_Database/table_1.html" width = "1200px" height = "900px" frameborder="0">
   </iframe>
 </div>
 
 #### Whole dataset
 <div class="box">
-  <iframe src="https://agricolamz.github.io/The_Circassian_Isoglosses_Database/table_2.html" width = "1100px" height = "500px" frameborder="0">
+  <iframe src="https://agricolamz.github.io/The_Circassian_Isoglosses_Database/table_2.html" width = "1200px" height = "900px" frameborder="0">
   </iframe>
 </div>
 
