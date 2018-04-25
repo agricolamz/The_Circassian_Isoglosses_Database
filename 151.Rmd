@@ -1,4 +1,4 @@
-## 151. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/151.html'>сентенциальный актант глагола ‘хотеть’</a>
+## 151. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/151.html' target='_blank'>сентенциальный актант глагола ‘хотеть’</a>
 case; sentential actant; morphology
 
 ### Description

@@ -1,4 +1,4 @@
-## 40. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/40.html'>использование индекса 2sg вместо 2pl</a>
+## 40. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/40.html' target='_blank'>использование индекса 2sg вместо 2pl</a>
 indexing
 
 ### Description

@@ -1,4 +1,4 @@
-## 126. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/126.html'>преверб "в сторону"</a>
+## 126. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/126.html' target='_blank'>преверб "в сторону"</a>
 preverb; spatial; morphology
 
 ### Description

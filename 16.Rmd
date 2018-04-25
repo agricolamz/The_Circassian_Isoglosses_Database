@@ -1,4 +1,4 @@
-## 16. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/16.html'>выпадение индекса 2sg.io перед бенефактивом</a>
+## 16. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/16.html' target='_blank'>выпадение индекса 2sg.io перед бенефактивом</a>
 indexing
 
 ### Description

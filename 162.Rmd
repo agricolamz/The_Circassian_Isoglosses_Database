@@ -1,4 +1,4 @@
-## 162. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/162.html'>устранение зияния между /e/ и -e- DYN</a>
+## 162. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/162.html' target='_blank'>устранение зияния между /e/ и -e- DYN</a>
 morphonology
 
 ### Description

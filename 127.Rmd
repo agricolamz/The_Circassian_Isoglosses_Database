@@ -1,4 +1,4 @@
-## 127. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/127.html'>преверб "глубоко"</a>
+## 127. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/127.html' target='_blank'>преверб "глубоко"</a>
 preverb; spatial; morphology
 
 ### Description

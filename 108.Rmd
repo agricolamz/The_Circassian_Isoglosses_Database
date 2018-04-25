@@ -1,4 +1,4 @@
-## 108. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/108.html'>показатель абсолютива</a>
+## 108. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/108.html' target='_blank'>показатель абсолютива</a>
 case; absolutive; morphology
 
 ### Description

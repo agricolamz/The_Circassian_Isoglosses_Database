@@ -1,4 +1,4 @@
-## 19. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/19.html'>выражение имперфекта</a>
+## 19. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/19.html' target='_blank'>выражение имперфекта</a>
 tense; imperfect; auxiliary; morphology; phonology
 
 ### Description

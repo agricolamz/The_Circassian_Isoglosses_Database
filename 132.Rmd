@@ -1,4 +1,4 @@
-## 132. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/132.html'>преверб "преодолевая препятствие"</a>
+## 132. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/132.html' target='_blank'>преверб "преодолевая препятствие"</a>
 preverb; spatial; morphology
 
 ### Description

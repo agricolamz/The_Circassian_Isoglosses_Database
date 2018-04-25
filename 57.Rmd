@@ -1,4 +1,4 @@
-## 57. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/57.html'>конверб на -ŝ</a>
+## 57. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/57.html' target='_blank'>конверб на -ŝ</a>
 converb; causal; morphology
 
 ### Description

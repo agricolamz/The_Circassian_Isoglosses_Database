@@ -1,4 +1,4 @@
-## 3. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/3.html'>аналитический аддитив</a>
+## 3. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/3.html' target='_blank'>аналитический аддитив</a>
 additive; analytic; morphology
 
 ### Description

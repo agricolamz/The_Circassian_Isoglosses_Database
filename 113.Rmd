@@ -1,4 +1,4 @@
-## 113. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/113.html'>показатель эргатива -ə</a>
+## 113. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/113.html' target='_blank'>показатель эргатива -ə</a>
 case; ergative; indefinite; morphology
 
 ### Description

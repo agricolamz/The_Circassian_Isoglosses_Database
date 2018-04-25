@@ -1,4 +1,4 @@
-## 135. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/135.html'>преверб "через"</a>
+## 135. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/135.html' target='_blank'>преверб "через"</a>
 preverb; spatial; morphology
 
 ### Description

@@ -10,7 +10,7 @@ read_tsv("https://raw.githubusercontent.com/agricolamz/The_Circassian_Isoglosses
   mutate(id = as.integer(factor(title)),
          title = paste0("<a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/",
                         id,
-                        ".html'>",
+                        ".html' target='_blank'>",
                         title,
                         "</a>")) ->
   db

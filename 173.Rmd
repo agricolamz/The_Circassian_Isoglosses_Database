@@ -1,4 +1,4 @@
-## 173. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/173.html'>эргатив плюралиса</a>
+## 173. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/173.html' target='_blank'>эргатив плюралиса</a>
 case; ergative; plural; morphology
 
 ### Description

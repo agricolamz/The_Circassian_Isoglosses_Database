@@ -1,4 +1,4 @@
-## 152. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/152.html'>скалярный модификатор "очень"</a>
+## 152. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/152.html' target='_blank'>скалярный модификатор "очень"</a>
 scalar; modifier
 
 ### Description

@@ -1,4 +1,4 @@
-## 172. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/172.html'>эргатив на -me в единственном числе</a>
+## 172. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/172.html' target='_blank'>эргатив на -me в единственном числе</a>
 case; ergative; singular; morphology
 
 ### Description

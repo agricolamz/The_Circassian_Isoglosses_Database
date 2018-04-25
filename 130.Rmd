@@ -1,4 +1,4 @@
-## 130. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/130.html'>преверб инструмента</a>
+## 130. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/130.html' target='_blank'>преверб инструмента</a>
 preverb; instrumental; morphology
 
 ### Description

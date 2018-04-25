@@ -1,4 +1,4 @@
-## 62. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/62.html'>конверб на -w</a>
+## 62. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/62.html' target='_blank'>конверб на -w</a>
 converb; morphology
 
 ### Description

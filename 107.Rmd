@@ -1,4 +1,4 @@
-## 107. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/107.html'>показатели (не)переходности</a>
+## 107. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/107.html' target='_blank'>показатели (не)переходности</a>
 transitivity
 
 ### Description

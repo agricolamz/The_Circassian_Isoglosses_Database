@@ -1,4 +1,4 @@
-## 21. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/21.html'>движение "изнутри"</a>
+## 21. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/21.html' target='_blank'>движение "изнутри"</a>
 preverb; elative; morphology
 
 ### Description

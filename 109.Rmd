@@ -1,4 +1,4 @@
-## 109. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/109.html'>показатель адвербиалиса</a>
+## 109. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/109.html' target='_blank'>показатель адвербиалиса</a>
 case; adverbial; morphology
 
 ### Description

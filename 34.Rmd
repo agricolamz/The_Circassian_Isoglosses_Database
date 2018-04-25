@@ -1,4 +1,4 @@
-## 34. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/34.html'>значение "наперегонки"</a>
+## 34. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/34.html' target='_blank'>значение "наперегонки"</a>
 preverb; morphology
 
 ### Description

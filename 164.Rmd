@@ -1,4 +1,4 @@
-## 164. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/164.html'>фактивный преверб</a>
+## 164. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/164.html' target='_blank'>фактивный преверб</a>
 preverb; manner; morphology
 
 ### Description

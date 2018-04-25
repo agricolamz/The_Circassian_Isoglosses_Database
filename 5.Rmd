@@ -1,4 +1,4 @@
-## 5. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/5.html'>бенефактивный послелог</a>
+## 5. <a href =  'https://agricolamz.github.io/The_Circassian_Isoglosses_Database/5.html' target='_blank'>бенефактивный послелог</a>
 postposition; beneficial
 
 ### Description
